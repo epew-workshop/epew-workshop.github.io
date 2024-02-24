@@ -95,7 +95,7 @@ encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "QUALIFIER 2024" # Site name or title, also used in jekyll-seo-tag
   #logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
-logo: "/assets/logos/qualifier.png" # Site logo, also used in jekyll-seo-tag
+logo: "/assets/logos/epew.png" # Site logo, also used in jekyll-seo-tag
 description: "2nd International Workshop on Quality in Software Architecture" # Site description and default description, also used in jekyll-seo-tag
 url: "https://qualifierf-workshop.github.io" # Site url, also used in jekyll-seo-tag
 baseurl: ""
@@ -112,7 +112,7 @@ css_inline: true # Will insert all styles into a single <style> block in the <he
 # 8. Site favicons & manifest icons
 favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
   #16: '/assets/logos/logo@16px.png'
-  16: '/assets/logos/qualifier@16px.png'
+  16: '/assets/logos/epew@16px.png'
     #32: '/assets/logos/logo@32px.png'
     #96: '/assets/logos/logo@96px.png'
     #120: '/assets/logos/logo@120px.png'
