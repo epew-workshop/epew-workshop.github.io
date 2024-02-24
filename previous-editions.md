@@ -3,7 +3,7 @@
 feature_text: |
 
   European Performance Engineering Workshop 
-#feature_image: "/uploads/charminar.jpeg"
+#feature_image: "/uploads/venice.jpg"
 excerpt: "EPEW is an annual event on all aspects of performance modelling and analysis."
 ---
 
