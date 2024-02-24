@@ -67,7 +67,12 @@ Submissions must follow the IEEE Computer Science proceedings format, as worksho
 
 ## Organizing Committee
 
+__General Chair__
+
  * Josu Doncel, University of the Basque Country, Spain
+
+__TPC Chairs__
+ 
  * Anne Remke, University of Münster, Germany
  * Daniele Di Pompeo, SPENCER Lab, University of L'Aquila, Italy
 
