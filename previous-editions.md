@@ -1,10 +1,10 @@
 ---
-#title: QUALIFIER Previous Editions
+#title: EPEW Previous Editions
 feature_text: |
 
-  International Workshop on Quality in Software Architecture 
+  European Performance Engineering Workshop 
 #feature_image: "/uploads/charminar.jpeg"
-excerpt: "QUALIFIER is a workshop on the quality of software architectures."
+excerpt: "EPEW is an annual event on all aspects of performance modelling and analysis."
 ---
 
-[QUALIFIER @ ECSA 2023](/2023)
+[ASMTA-EPEW @ ECMS 2023](https://asmta2023.sciencesconf.org/resource/page/id/5)
