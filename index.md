@@ -16,41 +16,41 @@ EPEW 2024 seeks papers based on performance evaluation of systems from theoretic
 
 Topics of interest include but are not limited to the following topic areas:
 
-Theoretical advances in performance modeling and evaluation, e.g.
+Theoretical advances in performance modeling and evaluation:
 
-    - Probabilistic, stochastic, or performability models, such as Queueing Networks, Petri Nets, and Process Calculi;
-    - Specification of quantitative properties,
-    - Analytical and numerical solution techniques and simulation techniques,
-    - Quantitative model checking, equivalence checking, and static analysis
-    - Context-aware modelling and analysis techniques
-    - Machine learning and deep learning-based approaches for performance evaluation and analysis
-    - Multiformalism and Multiparadigm modelling approaches
-
- 
-
-System, software, and network performance engineering, e.g.
-
-    - Performance-oriented design, architecture, implementation, deployment, monitoring, and maintenance
-    - Constraint-based and model-driven system design
-    - Performance analysis, simulation, and experimental design
-    - Benchmark design and benchmark-based evaluation and monitoring
-    - Automated interpretation of analysis results
-    - Quality of service, and trade-offs between security, performance, dependability, energy consumption, usability, etc.
-    - Software performance modeling languages, model composition and tool interoperability
-    - 6G and beyond
+  - Probabilistic, stochastic, or performability models, such as Queueing Networks, Petri Nets, and Process Calculi;
+  - Specification of quantitative properties,
+  - Analytical and numerical solution techniques and simulation techniques,
+  - Quantitative model checking, equivalence checking, and static analysis
+  - Context-aware modelling and analysis techniques
+  - Machine learning and deep learning-based approaches for performance evaluation and analysis
+  - Multiformalism and Multiparadigm modelling approaches
 
  
 
-Case studies, e.g.
+System, software, and network performance engineering:
 
-    - Cloud systems, Hybrid Cloud, and Fog Computing Internet of Things
-    - Cyber-physical systems
-    - E-health systems
-    - Blockchain and Cryptocurrency applications
-    - Sharing services such as carshare and rideshare
-    - Electric vehicles and battery modelling
-    - Large-scale systems and scalability analysis of systems, robustness analysis of systems, resilience analysis of systems
-    - Industrial case studies, experience reports and tools, with a solid analysis and theoretical background
+  - Performance-oriented design, architecture, implementation, deployment, monitoring, and maintenance
+  - Constraint-based and model-driven system design
+  - Performance analysis, simulation, and experimental design
+  - Benchmark design and benchmark-based evaluation and monitoring
+  - Automated interpretation of analysis results
+  - Quality of service, and trade-offs between security, performance, dependability, energy consumption, usability, etc.
+  - Software performance modeling languages, model composition and tool interoperability
+  - 6G and beyond
+
+ 
+
+Case studies:
+
+  - Cloud systems, Hybrid Cloud, and Fog Computing Internet of Things
+  - Cyber-physical systems
+  - E-health systems
+  - Blockchain and Cryptocurrency applications
+  - Sharing services such as carshare and rideshare
+  - Electric vehicles and battery modelling
+  - Large-scale systems and scalability analysis of systems, robustness analysis of systems, resilience analysis of systems
+  - Industrial case studies, experience reports and tools, with a solid analysis and theoretical background
 
 
 ##### Submission
