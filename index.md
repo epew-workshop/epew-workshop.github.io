@@ -86,6 +86,6 @@ TBD
 TBD
 
 ## Contact
-For any questions, please don’t hesitate to contact us at: []()
+For any questions, please don’t hesitate to contact us at: [epew2024@easychair.org](epew2024@easychair.org)
 
 
