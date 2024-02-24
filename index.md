@@ -62,8 +62,8 @@ EPEW 2024 seeks contributions in the form of:
 All page limits include tables, figures, and references.
 
 All submitted papers will be reviewed on the basis of technical quality, relevance, significance, and clarity by the program committee. 
-All workshop papers should be submitted electronically in PDF format through the EasyChair workshop website.
-Submissions must follow the IEEE Computer Science proceedings format, as workshop proceedings will be published in ICSA 2024 Companion proceedings, and appear in IEEE Xplore Digital Library
+All papers should be submitted electronically in PDF format through the [EasyChair workshop website](https://easychair.org/my/conference?conf=epew2024).
+Submissions must follow the LNCS proceedings format.
 
 ## Organizing Committee
 
