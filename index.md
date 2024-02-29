@@ -83,7 +83,8 @@ TBD
 ## Important dates
 (All deadlines are 23:59, Anywhere on Earth)
 
-TBD
+ * Deadline for submissions: 7th April 
+ * Acceptance notification:  17th May
 
 ## Contact
 For any questions, please don’t hesitate to contact us at: [epew2024@easychair.org](epew2024@easychair.org)
