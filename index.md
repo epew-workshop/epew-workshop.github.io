@@ -7,10 +7,16 @@ feature_image: "/uploads/venice.jpg"
 excerpt: "EPEW is an annual event on all aspects of performance modelling and analysis."
 ---
 
-
 The concept of performance in EPEW 2024 is considered in its broadest sense including the notions of Quality of Service, scalability as well as reliability, availability and systems management, among the others. Therefore, of particular interest are the ideas introducing new methods for evaluating complex systems, as well as innovative applications of methodologies and known techniques to the latest generation of systems, networks and computer-based services. 
 
 EPEW 2024 seeks papers based on performance evaluation of systems from theoretical and practical viewpoint. Application of performance evaluation techniques to emerging technologies, like cyber-physical systems ranging from mobile devices and Internet-of-Things (IoT), fog and edge computing, applications to large-scale cloud computing systems, smart grids, security infrastructures, are among the topics of interest to EPEW 2024.
+
+##### Post-Proceedings
+<p style="background-color: #d0e2ff">
+The workshop is featuring post-proceedings this year, so we have a two-phase review process.
+We sollicit short papers of at most 7 pages for presentation at the conference, which will not be published.
+Authors of accepted short papers are then invited to submit a full paper with at most 15 pages for publication in the post-proceedings, which we plan to publish with  Springer as LNCS volume.
+</p>
 
 ## Call for paper
 
