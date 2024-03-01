@@ -39,7 +39,6 @@ System, software, and network performance engineering:
   - Software performance modeling languages, model composition and tool interoperability
   - 6G and beyond
 
- 
 
 Case studies:
 
@@ -55,9 +54,11 @@ Case studies:
 
 ##### Submission
 
-EPEW 2024 seeks contributions in the form of:
-- 7 pages for _short research papers_ in LNCS format
-- 15 pages for post proceedings in LNCS format
+EPEW 2024 seeks __workshop presentations__, submitted in the form of 7 pages _short research papers_ in LNCS format. 
+
+Authors of accepted short papers will be invited to submit an extend version of the short paper for publication in the __post-proceedings__.
+
+The page limit of an article in the post-proceedings is 15 pages in LNCS format.
 
 All page limits include tables, figures, and references.
 
