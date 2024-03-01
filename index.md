@@ -56,8 +56,8 @@ Case studies:
 ##### Submission
 
 EPEW 2024 seeks contributions in the form of:
-- 4 pages for short research papers in LNCS format;
-- 2 pages for new ideas and emerging results in IEEE format.
+- 7 pages for _short research papers_ in LNCS format
+- 15 pages for post proceedings in LNCS format
 
 All page limits include tables, figures, and references.
 
@@ -83,8 +83,9 @@ TBD
 ## Important dates
 (All deadlines are 23:59, Anywhere on Earth)
 
- * Deadline for submissions: 7th April 
+ * Deadline for submissions (short paper): 7th April 
  * Acceptance notification:  17th May
+ * Deadline for post-proceedings: 31st July
 
 ## Contact
 For any questions, please don’t hesitate to contact us at: [epew2024@easychair.org](epew2024@easychair.org)
