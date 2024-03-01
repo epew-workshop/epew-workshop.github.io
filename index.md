@@ -87,6 +87,7 @@ TBD
  * Deadline for submissions (short paper): 7th April 
  * Acceptance notification:  17th May
  * Deadline for post-proceedings: 31st July
+ * Acceptance notification of post-proceedings: 30th September
 
 ## Contact
 For any questions, please don’t hesitate to contact us at: [epew2024@easychair.org](epew2024@easychair.org)
