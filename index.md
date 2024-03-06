@@ -85,7 +85,31 @@ __TPC Chairs__
 
 ## Program Committee
 
-TBD
+ * Salvador, Alcaraz, Miguel Hernandez University                      
+ * Elvio Gilberto, Amparore, University of Turin
+ * Paolo, Ballarini, CentraleSupelec
+ * Marco, Bernardo, University of Urbino
+ * Carina, Da Silva, University of Münster
+ * Dieter, Fiems, Ghent University
+ * Matthew, Forshaw, Newcastle University
+ * Pedro Pablo, Garrido Abenza, Miguel Hernandez University
+ * Antonio, Gomez, Complutense University of Madrid
+ * Marco, Gribaudo, Politecnico di Milano
+ * Nikolas, Herbst, University of Würzburg
+ * András, Horváth, University of Turin
+ * Alain, Jean-Marie, INRIA
+ * Carlos, Juiz, University of the Balearic Islands
+ * Lasse, Leskelä, Aalto University
+ * Francesco, Longo, University of Messina
+ * Marco, Paolieri, University of Southern California
+ * Nihal, Pekergin N., Univ. Paris-Est-Creteil
+ * Tuan, Phung-Duc, University of Tsukuba
+ * Agapios, Platis, University of the Aegean
+ * Marco, Scarpa, University of Messina
+ * Markus, Siegle, Uni Bw Munich
+ * Nigel, Thomas, University of Newcastle
+ * Catia, Trubiani, Gran Sasso Science Institute
+ * Joris, Walraevens, Ghent University - UGent
 
 ## Important dates
 (All deadlines are 23:59, Anywhere on Earth)
