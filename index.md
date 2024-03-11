@@ -85,10 +85,12 @@ __TPC Chairs__
 
 ## Program Committee
 
- * Salvador, Alcaraz, Miguel Hernandez University                      
+ * Salvador, Alcaraz, Miguel Hernandez University       
  * Elvio Gilberto, Amparore, University of Turin
  * Paolo, Ballarini, CentraleSupelec
  * Marco, Bernardo, University of Urbino
+ * Laura, Carnevali, Dept. of Information Engineering - University of Florence
+ * Davide, Cerotti, Università del Piemonte Orientale
  * Carina, Da Silva, University of Münster
  * Dieter, Fiems, Ghent University
  * Matthew, Forshaw, Newcastle University
