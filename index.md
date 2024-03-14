@@ -85,7 +85,7 @@ __TPC Chairs__
 
 ## Program Committee
 
- * Salvador, Alcaraz, Miguel Hernandez University       
+ * Salvador, Alcaraz, Miguel Hernandez University                                      
  * Elvio Gilberto, Amparore, University of Turin
  * Paolo, Ballarini, CentraleSupelec
  * Marco, Bernardo, University of Urbino
@@ -94,6 +94,7 @@ __TPC Chairs__
  * Carina, Da Silva, University of Münster
  * Dieter, Fiems, Ghent University
  * Matthew, Forshaw, Newcastle University
+ * Jean-Michel, Fourneau, DAVID, Universite de Versailles St Quentin
  * Pedro Pablo, Garrido Abenza, Miguel Hernandez University
  * Antonio, Gomez, Complutense University of Madrid
  * Marco, Gribaudo, Politecnico di Milano
