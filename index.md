@@ -2,7 +2,8 @@
 title: EPEW 2024
 feature_text: |
   20th European Performance Engineering Workshop (EPEW 2024) \
-  co-located with [ACM SIGMETRICS / IFIP PERFORMANCE 2024](https://www.sigmetrics.org/sigmetrics2024/)
+  co-located with [ACM SIGMETRICS / IFIP PERFORMANCE 2024](https://www.sigmetrics.org/sigmetrics2024/) \
+  14 June 2024
 feature_image: "/uploads/venice.jpg"
 excerpt: "EPEW is an annual event on all aspects of performance modelling and analysis."
 ---
