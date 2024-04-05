@@ -118,7 +118,7 @@ __TPC Chairs__
 ## Important dates
 (All deadlines are 23:59, Anywhere on Earth)
 
- * Deadline for submissions (short paper): 7th April 
+ * Deadline for submissions (short paper): ~~7th April~~  __21st April__
  * Acceptance notification:  10th May
  * Deadline for post-proceedings: 31st July
  * Acceptance notification of post-proceedings: 30th September
