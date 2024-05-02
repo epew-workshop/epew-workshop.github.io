@@ -19,6 +19,26 @@ We sollicit short papers of at most 7 pages for presentation at the conference, 
 Authors of accepted short papers are then invited to submit a full paper with at most 15 pages for publication in the post-proceedings, which we plan to publish with  Springer as LNCS volume.
 </p>
 
+# Program
+
+## Keynote
+
+__Mirco Tribastone__
+
+<img src="uploads/mirco-tribastone.jpg" width="100" /> 
+
+__Title__
+
+TBD
+
+__Abstract__
+
+TBD
+
+__Bio__
+
+TBD
+
 ## Call for paper
 
 Topics of interest include but are not limited to the following topic areas:
