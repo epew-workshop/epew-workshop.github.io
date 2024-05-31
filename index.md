@@ -19,7 +19,30 @@ We sollicit short papers of at most 7 pages for presentation at the conference, 
 Authors of accepted short papers are then invited to submit a full paper with at most 15 pages for publication in the post-proceedings, which we plan to publish with  Springer as LNCS volume.
 </p>
 
-# Program
+# Program (_tentative_)
+
+|Time <br/> UTC+2 |Paper Title                                                                                    |
+|-------|---------------------------------------------------------------------------------------------------------|
+|09:15 AM  | Opening Remarks                                                                                      |
+|09:25 AM  | **Analytical Modelling of Asymmetric Multi-core Servers** <br/> Marco Gribaudo and Tuan Phung-Duc        |
+|09:45 AM  | **Design and Analysis of Distributed Message Ordering over a Unidirectional Logical Ring** <br/> Ye Liu, Paul Ezhilchelvan and Isi Mitrani               |
+|10:05 AM  | **A Lumped CTMC for Modular Rewritable PN** <br/> Lorenzo Capra and Marco Gribaudo.                                                              |
+|10:25 AM  | **Under the space threat: Quantitative Analysis of Cosmos blockchain** <br/> Daria Smuseva, Ivan Malakhov, Andrea Marin, Carla Piazza and Sabina Rossi |
+|10:45 AM  | **COFFEE BREAK**                                                                                 |
+|11:15 AM  | **A Tool for Efficient Derivation of Optimal Signal Schedules for Multimodal Intersections** <br/> Nicola Bertocci, Laura Carnevali, Leonardo Scommegna and Enrico Vicario             |
+|11:35 AM  | **Performance Evaluation of Beaconing Schemes for Vehicular Platooning** <br/>  Hassan Laghbi and Nigel Thomas  |
+|11:55 AM  | **Approximation of First Passage Distributions in Markov Chains with Replicated Components** <br/> András Horváth, Marco Paolieri and Enrico Vicario  |
+|12:15 PM  | **Sender and Receiver Energy Consumption in a Sensor Network** <br/> Jean-Michel Fourneau and Franck Quessette                                           |
+|12:35 PM  | **How to Rent GPUs on a Budget** <br/> Zhouzi Li, Benjamin Berg, Arpan Mukhopadhyay and Mor Harchol-Balter     |
+|01:15 PM  | **LUNCH**                                                                                  |
+|02:45 PM  | **Keynote Speaker** Mirco Tribastone                                                                                      |
+|03:45 PM  | **On Systems Reproducibility** <br/> Iain Dixon, Matthew Forshaw and Joe Matthews                   |
+|04:15 PM  | **COFFEE BREAK**                                                                                 |
+|04:30 PM  | **Evaluating No-Wait Approach for resolving conflicts in database** <br/> Yingming Wang, Paul Ezhilchelvan, Jack Waudby and Jim Webber  |
+|04:50 PM  | **Whom are you voting for? An evaluation based on Markovian agents** <br/> Marco Scarpa, Marco Garofalo, Francesco Longo and Salvatore Serrano  |
+|05:10 PM  | **Performance Evaluation of Smart Bin Systems Using Markovian Agents for Efficient Garbage Collection** <br/> Enrico Barbierato, Alice Gatti, Marco Gribaudo and Mauro Iacono  |
+|05:30 PM  | **Closing**                                                                                              |
+
 
 ## Keynote
 
