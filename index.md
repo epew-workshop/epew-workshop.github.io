@@ -26,16 +26,16 @@ Authors of accepted short papers are then invited to submit a full paper with at
 |09:15 AM  | Opening Remarks                                                                                      |
 |09:25 AM  | **Analytical Modelling of Asymmetric Multi-core Servers** <br/> Marco Gribaudo and Tuan Phung-Duc        |
 |09:45 AM  | **Design and Analysis of Distributed Message Ordering over a Unidirectional Logical Ring** <br/> Ye Liu, Paul Ezhilchelvan and Isi Mitrani               |
-|10:05 AM  | **A Lumped CTMC for Modular Rewritable PN** <br/> Lorenzo Capra and Marco Gribaudo.                                                              |
+|10:05 AM  | **Sender and Receiver Energy Consumption in a Sensor Network** <br/> Jean-Michel Fourneau and Franck Quessette |
 |10:25 AM  | **Under the space threat: Quantitative Analysis of Cosmos blockchain** <br/> Daria Smuseva, Ivan Malakhov, Andrea Marin, Carla Piazza and Sabina Rossi |
 |10:45 AM  | **COFFEE BREAK**                                                                                 |
 |11:15 AM  | **A Tool for Efficient Derivation of Optimal Signal Schedules for Multimodal Intersections** <br/> Nicola Bertocci, Laura Carnevali, Leonardo Scommegna and Enrico Vicario             |
 |11:35 AM  | **Performance Evaluation of Beaconing Schemes for Vehicular Platooning** <br/>  Hassan Laghbi and Nigel Thomas  |
 |11:55 AM  | **Approximation of First Passage Distributions in Markov Chains with Replicated Components** <br/> András Horváth, Marco Paolieri and Enrico Vicario  |
-|12:15 PM  | **Sender and Receiver Energy Consumption in a Sensor Network** <br/> Jean-Michel Fourneau and Franck Quessette                                           |
+|12:15 PM  | **A Lumped CTMC for Modular Rewritable PN** <br/> Lorenzo Capra and Marco Gribaudo. |   
 |12:35 PM  | **How to Rent GPUs on a Budget** <br/> Zhouzi Li, Benjamin Berg, Arpan Mukhopadhyay and Mor Harchol-Balter     |
 |01:15 PM  | **LUNCH**                                                                                  |
-|02:45 PM  | **Keynote Speaker** Mirco Tribastone                                                                                      |
+|02:45 PM  | [Software Performance Modeling for the Cloud: An Overview](keynote) Mirco Tribastone                                                                                      |
 |03:45 PM  | **On Systems Reproducibility** <br/> Iain Dixon, Matthew Forshaw and Joe Matthews                   |
 |04:15 PM  | **COFFEE BREAK**                                                                                 |
 |04:30 PM  | **Evaluating No-Wait Approach for resolving conflicts in database** <br/> Yingming Wang, Paul Ezhilchelvan, Jack Waudby and Jim Webber  |
@@ -52,15 +52,19 @@ __Mirco Tribastone__
 
 __Title__
 
-TBD
+Software Performance Modeling for the Cloud: An Overview
 
 __Abstract__
 
-TBD
+Through an array of service models such as SaaS, PaaS, and IaaS, cloud computing has become an indispensable part of modern business operations, offering a wide range of benefits driving its rapid adoption, including versatility, scalability, and security. However, cost optimization still remains a difficult challenge specifically for right-sizing, i.e., choosing the instance configurations that best suit the workload. In this talk, I will overview past and current efforts to address this issue using software performance modeling and optimization, including recent initiatives at applying research results into industry.
 
 __Bio__
 
-TBD
+Mirco is Full Professor of Computer Science at IMT Lucca, where he leads the [SySMA research unit](https://sysma.imtlucca.it/) and also serves as Deputy Rector and Rector's Delegate for Education and Information Systems.
+
+He is co-founder of Valuematic, an IMT spin-off company which recently received seed funding for the development of new technologies for sustainable cloud computing.
+
+Prior to joining IMT, Mirco was Associate Professor at the School of Electronics and Computer Science of Southampton University, United Kingdom, and Assistant Professor (Juniorprofessur) at the Institute for Informatics of the Ludwig-Maximilians University of Munich, Germany. He received my Ph.D. in Computer Science from the School of Informatics of the University of Edinburgh, Scotland, in 2010.
 
 ## Call for paper
 
