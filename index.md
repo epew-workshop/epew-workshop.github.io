@@ -35,7 +35,7 @@ Authors of accepted short papers are then invited to submit a full paper with at
 |12:15 PM  | **A Lumped CTMC for Modular Rewritable PN** <br/> Lorenzo Capra and Marco Gribaudo. |   
 |12:35 PM  | **How to Rent GPUs on a Budget** <br/> Zhouzi Li, Benjamin Berg, Arpan Mukhopadhyay and Mor Harchol-Balter     |
 |01:15 PM  | **LUNCH**                                                                                  |
-|02:45 PM  | [Software Performance Modeling for the Cloud: An Overview](keynote) Mirco Tribastone                                                                                      |
+|02:45 PM  | **Keynote**: [Software Performance Modeling for the Cloud: An Overview](keynote) Mirco Tribastone                                                                                      |
 |03:45 PM  | **On Systems Reproducibility** <br/> Iain Dixon, Matthew Forshaw and Joe Matthews                   |
 |04:15 PM  | **COFFEE BREAK**                                                                                 |
 |04:30 PM  | **Evaluating No-Wait Approach for resolving conflicts in database** <br/> Yingming Wang, Paul Ezhilchelvan, Jack Waudby and Jim Webber  |
