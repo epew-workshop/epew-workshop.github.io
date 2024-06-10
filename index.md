@@ -24,9 +24,9 @@ Authors of accepted short papers are then invited to submit a full paper with at
 |Time <br/> UTC+2 |Paper Title                                                                                    |
 |-------|---------------------------------------------------------------------------------------------------------|
 |09:15 AM  | Opening Remarks                                                                                      |
-|09:25 AM  | **Analytical Modelling of Asymmetric Multi-core Servers** <br/> Marco Gribaudo and Tuan Phung-Duc        |
+|09:25 AM  | **Sender and Receiver Energy Consumption in a Sensor Network** <br/> Jean-Michel Fourneau and Franck Quessette |
 |09:45 AM  | **Design and Analysis of Distributed Message Ordering over a Unidirectional Logical Ring** <br/> Ye Liu, Paul Ezhilchelvan and Isi Mitrani               |
-|10:05 AM  | **Sender and Receiver Energy Consumption in a Sensor Network** <br/> Jean-Michel Fourneau and Franck Quessette |
+|10:05 AM  | **Analytical Modelling of Asymmetric Multi-core Servers** <br/> Marco Gribaudo and Tuan Phung-Duc        |
 |10:25 AM  | **Under the space threat: Quantitative Analysis of Cosmos blockchain** <br/> Daria Smuseva, Ivan Malakhov, Andrea Marin, Carla Piazza and Sabina Rossi |
 |10:45 AM  | **COFFEE BREAK**                                                                                 |
 |11:15 AM  | **A Tool for Efficient Derivation of Optimal Signal Schedules for Multimodal Intersections** <br/> Nicola Bertocci, Laura Carnevali, Leonardo Scommegna and Enrico Vicario             |
