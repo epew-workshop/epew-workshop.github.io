@@ -36,7 +36,7 @@ Authors of accepted short papers are then invited to submit a full paper with at
 |12:35 PM  | **How to Rent GPUs on a Budget** <br/> Zhouzi Li, Benjamin Berg, Arpan Mukhopadhyay and Mor Harchol-Balter     |
 |01:15 PM  | **LUNCH**                                                                                  |
 |02:45 PM  | **Keynote**: [Software Performance Modeling for the Cloud: An Overview](keynote) Mirco Tribastone                                                                                      |
-|03:45 PM  | **On Systems Reproducibility** <br/> Iain Dixon, Matthew Forshaw and Joe Matthews                   |
+|03:45 PM  | **Robust Streaming Benchmark Design in the Presence of Backpressure** <br/> Iain Dixon, Matthew Forshaw and Joe Matthews                   |
 |04:15 PM  | **COFFEE BREAK**                                                                                 |
 |04:30 PM  | **Evaluating No-Wait Approach for resolving conflicts in database** <br/> Yingming Wang, Paul Ezhilchelvan, Jack Waudby and Jim Webber  |
 |04:50 PM  | **Whom are you voting for? An evaluation based on Markovian agents** <br/> Marco Scarpa, Marco Garofalo, Francesco Longo and Salvatore Serrano  |
