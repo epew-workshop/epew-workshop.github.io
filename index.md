@@ -21,8 +21,8 @@ Authors of accepted short papers are then invited to submit a full paper with at
 
 ## Transportation
 <p style="background-color: #d0e2ff">
-You can find details on the private transoportation to reach the San Servolo island [here](https://www.sigmetrics.org/sigmetrics2024/transportation.html).
-If you want to use the public transportation of the municipality you can use the line 20, [here the timetable](https://servizimetropolitani.ve.it/images/orari-vaporetti-venezia/orari_linea_20.pdf).
+You can find details on the private transoportation to reach the San Servolo <a href="https://www.sigmetrics.org/sigmetrics2024/transportation.html">here</a>.
+If you want to use the public transportation of the municipality you can use the line 20, <a href="https://servizimetropolitani.ve.it/images/orari-vaporetti-venezia/orari_linea_20.pdf">here the timetable</a>.
 </p>                                                                                                                                                                    
 
 # Program
