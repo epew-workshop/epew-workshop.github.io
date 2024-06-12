@@ -31,26 +31,26 @@ If you want to use the public transportation of the municipality you can use the
 |-------|---------------------------------------------------------------------------------------------------------|
 |09:15 AM  | Opening Remarks|
 |09:15 AM - 10:45 AM | _Session 1 -- Chair: Daniele Di Pompeo_ |
-|09:25 AM  | **Sender and Receiver Energy Consumption in a Sensor Network** [[abs](https://univaq-my.sharepoint.com/:b:/g/personal/daniele_dipompeo_univaq_it/Ee14f4h86s9KqOT3tk4DBrQBAmSbOjH5h5-xGMG1cZ8JrQ?e=gkQDtg)] <br/> Jean-Michel Fourneau and Franck Quessette |
+|09:25 AM  | **Sender and Receiver Energy Consumption in a Sensor Network** [[pdf](https://univaq-my.sharepoint.com/:b:/g/personal/daniele_dipompeo_univaq_it/Ee14f4h86s9KqOT3tk4DBrQBAmSbOjH5h5-xGMG1cZ8JrQ?e=gkQDtg)] <br/> Jean-Michel Fourneau and Franck Quessette |
 |09:45 AM  | **Design and Analysis of Distributed Message Ordering over a Unidirectional Logical Ring** <br/> Ye Liu, Paul Ezhilchelvan and Isi Mitrani               |
 |10:05 AM  | **Analytical Modelling of Asymmetric Multi-core Servers** <br/> Marco Gribaudo and Tuan Phung-Duc        |
-|10:25 AM  | **Under the space threat: Quantitative Analysis of Cosmos blockchain** [[abs](https://univaq-my.sharepoint.com/:b:/g/personal/daniele_dipompeo_univaq_it/EWj4qqidaFlEld6_ociucIgBs2_u1F_EFFXCjYmNj84YYQ?e=My0UJa)] <br/> Daria Smuseva, Ivan Malakhov, Andrea Marin, Carla Piazza and Sabina Rossi |
+|10:25 AM  | **Under the space threat: Quantitative Analysis of Cosmos blockchain** [[pdf](https://univaq-my.sharepoint.com/:b:/g/personal/daniele_dipompeo_univaq_it/EWj4qqidaFlEld6_ociucIgBs2_u1F_EFFXCjYmNj84YYQ?e=My0UJa)] <br/> Daria Smuseva, Ivan Malakhov, Andrea Marin, Carla Piazza and Sabina Rossi |
 |10:45 AM  | **COFFEE BREAK**                                                                                 |
 |11:15 AM - 01:15 PM | _Session 2 -- Chair: Marco Scarpa_ |
 |11:15 AM  | **A Tool for Efficient Derivation of Optimal Signal Schedules for Multimodal Intersections** <br/> Nicola Bertocci, Laura Carnevali, Leonardo Scommegna and Enrico Vicario             |
-|11:35 AM  | **Performance Evaluation of Beaconing Schemes for Vehicular Platooning** [[abs](https://univaq-my.sharepoint.com/:b:/g/personal/daniele_dipompeo_univaq_it/EbjkFU_iKytDtbwUjGAcSe8B9TmQORGw2nMNdRS65lMXBQ?e=dXB9Bx)] <br/>  Hassan Laghbi and Nigel Thomas  |
-|11:55 AM  | **Approximation of First Passage Distributions in Markov Chains with Replicated Components** [[abs](https://univaq-my.sharepoint.com/:b:/g/personal/daniele_dipompeo_univaq_it/ESHoMi33WelMsf4egm9LuOAB4Oddp-ICgG_yOx8rFOIPcA?e=m8W7pE)] <br/> András Horváth, Marco Paolieri and Enrico Vicario  |
+|11:35 AM  | **Performance Evaluation of Beaconing Schemes for Vehicular Platooning** [[pdf](https://univaq-my.sharepoint.com/:b:/g/personal/daniele_dipompeo_univaq_it/EbjkFU_iKytDtbwUjGAcSe8B9TmQORGw2nMNdRS65lMXBQ?e=dXB9Bx)] <br/>  Hassan Laghbi and Nigel Thomas  |
+|11:55 AM  | **Approximation of First Passage Distributions in Markov Chains with Replicated Components** [[pdf](https://univaq-my.sharepoint.com/:b:/g/personal/daniele_dipompeo_univaq_it/ESHoMi33WelMsf4egm9LuOAB4Oddp-ICgG_yOx8rFOIPcA?e=m8W7pE)] <br/> András Horváth, Marco Paolieri and Enrico Vicario  |
 |12:15 PM  | **A Lumped CTMC for Modular Rewritable PN** <br/> Lorenzo Capra and Marco Gribaudo. |   
-|12:35 PM  | **How to Rent GPUs on a Budget** [[abs](https://univaq-my.sharepoint.com/:b:/g/personal/daniele_dipompeo_univaq_it/EbqUTlLhftZCkXaZdKIKqN4BBt1jjRYhojtKEMDkVzCoVQ?e=L7aSnH)] <br/> Zhouzi Li, Benjamin Berg, Arpan Mukhopadhyay and Mor Harchol-Balter     |
+|12:35 PM  | **How to Rent GPUs on a Budget** [[pdf](https://univaq-my.sharepoint.com/:b:/g/personal/daniele_dipompeo_univaq_it/EbqUTlLhftZCkXaZdKIKqN4BBt1jjRYhojtKEMDkVzCoVQ?e=L7aSnH)] <br/> Zhouzi Li, Benjamin Berg, Arpan Mukhopadhyay and Mor Harchol-Balter     |
 |01:15 PM  | **LUNCH**                                                                                  | 
 |02:45 PM - 04:15 PM | _Session 3 -- Chair: Josu Doncel_ |
 |02:45 PM  | **Keynote**: [Software Performance Modeling for the Cloud: An Overview](keynote) Mirco Tribastone                                                                                      |
-|03:45 PM  | **Robust Streaming Benchmark Design in the Presence of Backpressure** [[abs](https://univaq-my.sharepoint.com/:b:/g/personal/daniele_dipompeo_univaq_it/EVuGgm50IjNMtjBxkpJu52EBrhv5CecaZQ1UvqH8uqOBeg?e=PTAJbf)]<br/> Iain Dixon, Matthew Forshaw and Joe Matthews                   |
+|03:45 PM  | **Robust Streaming Benchmark Design in the Presence of Backpressure** [[pdf](https://univaq-my.sharepoint.com/:b:/g/personal/daniele_dipompeo_univaq_it/EVuGgm50IjNMtjBxkpJu52EBrhv5CecaZQ1UvqH8uqOBeg?e=PTAJbf)]<br/> Iain Dixon, Matthew Forshaw and Joe Matthews                   |
 |04:15 PM  | **COFFEE BREAK**                                                                                 |
 |04:30 PM - 05:30 PM | _Session 4 -- Chair: Jean-Michel Fourneau_ |
 |04:30 PM  | **Evaluating No-Wait Approach for resolving conflicts in database** <br/> Yingming Wang, Paul Ezhilchelvan, Jack Waudby and Jim Webber  |
 |04:50 PM  | **Whom are you voting for? An evaluation based on Markovian agents** <br/> Marco Scarpa, Marco Garofalo, Francesco Longo and Salvatore Serrano  |
-|05:10 PM  | **Performance Evaluation of Smart Bin Systems Using Markovian Agents for Efficient Garbage Collection** [[abs](https://univaq-my.sharepoint.com/:b:/g/personal/daniele_dipompeo_univaq_it/EdIxk-Olqg5ElZ4hKcNGvlUBtyP6a6Zsqb32SeEV0xoSMg?e=jWur6E)] <br/> Enrico Barbierato, Alice Gatti, Marco Gribaudo and Mauro Iacono  |
+|05:10 PM  | **Performance Evaluation of Smart Bin Systems Using Markovian Agents for Efficient Garbage Collection** [[pdf](https://univaq-my.sharepoint.com/:b:/g/personal/daniele_dipompeo_univaq_it/EdIxk-Olqg5ElZ4hKcNGvlUBtyP6a6Zsqb32SeEV0xoSMg?e=jWur6E)] <br/> Enrico Barbierato, Alice Gatti, Marco Gribaudo and Mauro Iacono  |
 |05:30 PM  | **Closing**                                                                                              |
 
 ## Keynote
