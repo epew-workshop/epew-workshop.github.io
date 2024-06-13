@@ -40,7 +40,7 @@ If you want to use the public transportation of the municipality you can use the
 |11:15 AM  | **A Tool for Efficient Derivation of Optimal Signal Schedules for Multimodal Intersections** <br/> Nicola Bertocci, Laura Carnevali, Leonardo Scommegna and Enrico Vicario             |
 |11:35 AM  | **Performance Evaluation of Beaconing Schemes for Vehicular Platooning** [[pdf](https://univaq-my.sharepoint.com/:b:/g/personal/daniele_dipompeo_univaq_it/EbjkFU_iKytDtbwUjGAcSe8B9TmQORGw2nMNdRS65lMXBQ?e=dXB9Bx)] <br/>  Hassan Laghbi and Nigel Thomas  |
 |11:55 AM  | **Approximation of First Passage Distributions in Markov Chains with Replicated Components** [[pdf](https://univaq-my.sharepoint.com/:b:/g/personal/daniele_dipompeo_univaq_it/ESHoMi33WelMsf4egm9LuOAB4Oddp-ICgG_yOx8rFOIPcA?e=m8W7pE)] <br/> András Horváth, Marco Paolieri and Enrico Vicario  |
-|12:15 PM  | **A Lumped CTMC for Modular Rewritable PN** <br/> Lorenzo Capra and Marco Gribaudo. |   
+|12:15 PM  | **A Lumped CTMC for Modular Rewritable PN** [[pdf](https://univaq-my.sharepoint.com/:b:/g/personal/daniele_dipompeo_univaq_it/EagZDbaBQNtDlgneL24h6pgB-K_1x1cJOevWPRzGAhNHgw?e=8WYRwb)]<br/> Lorenzo Capra and Marco Gribaudo. |   
 |12:35 PM  | **How to Rent GPUs on a Budget** [[pdf](https://univaq-my.sharepoint.com/:b:/g/personal/daniele_dipompeo_univaq_it/EbqUTlLhftZCkXaZdKIKqN4BBt1jjRYhojtKEMDkVzCoVQ?e=L7aSnH)] <br/> Zhouzi Li, Benjamin Berg, Arpan Mukhopadhyay and Mor Harchol-Balter     |
 |01:15 PM  | **LUNCH**                                                                                  | 
 |02:45 PM - 04:15 PM | _Session 3 -- Chair: Josu Doncel_ |
