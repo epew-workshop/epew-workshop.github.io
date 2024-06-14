@@ -46,7 +46,7 @@ If you want to use the public transportation of the municipality you can use the
 |02:45 PM - 04:15 PM | _Session 3 -- Chair: Josu Doncel_ |
 |02:45 PM  | **Keynote**: [Software Performance Modeling for the Cloud: An Overview](keynote) Mirco Tribastone                                                                                      |
 |03:45 PM  | **Robust Streaming Benchmark Design in the Presence of Backpressure** [[pdf](https://univaq-my.sharepoint.com/:b:/g/personal/daniele_dipompeo_univaq_it/EVuGgm50IjNMtjBxkpJu52EBrhv5CecaZQ1UvqH8uqOBeg?e=PTAJbf)]<br/> Iain Dixon, Matthew Forshaw and Joe Matthews                   |
-|04:15 PM  | **COFFEE BREAK**                                                                                 |
+|04:05 PM  | **COFFEE BREAK**                                                                                 |
 |04:30 PM - 05:30 PM | _Session 4 -- Chair: Jean-Michel Fourneau_ |
 |04:30 PM  | **Evaluating No-Wait Approach for resolving conflicts in database** <br/> Yingming Wang, Paul Ezhilchelvan, Jack Waudby and Jim Webber  |
 |04:50 PM  | **Whom are you voting for? An evaluation based on Markovian agents** <br/> Marco Scarpa, Marco Garofalo, Francesco Longo and Salvatore Serrano  |
