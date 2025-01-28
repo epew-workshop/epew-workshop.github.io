@@ -19,7 +19,7 @@ EPEW 2025 seeks papers based on performance evaluation of systems from theoretic
 ## Keynote
 
 
-## Call for paper
+## Call for papers
 
 Topics of interest include but are not limited to the following topic areas:
 
@@ -77,7 +77,7 @@ Submissions must follow the LNCS proceedings format.
 
 __General Chair__
 
- * Josu Doncel, University of the Basque Country, Spain
+ * Marco Scarpa, University of Messina, Italy
 
 __TPC Chairs__
  
