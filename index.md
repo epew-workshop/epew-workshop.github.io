@@ -19,7 +19,7 @@ EPEW 2025 seeks papers based on performance evaluation of systems from theoretic
 ## Keynote (TBD)
 
 
-## Call for papers
+## Scope and topics
 
 Topics of interest include but are not limited to the following topic areas:
 
@@ -70,13 +70,11 @@ All submitted papers will be reviewed by the program committee based on technica
 
 
 ## Organizing Committee
-
 __General Chair__
 
  * Marco Scarpa, University of Messina, Italy
 
 __TPC Chairs__
- 
  * Laura Carnevali, University of Florence, Italy
  * Josu Doncel, University of the Basque Country
 
