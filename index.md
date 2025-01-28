@@ -73,7 +73,7 @@ All submitted papers will be reviewed by the program committee based on technica
 
 __All deadlines are UTC-12, Anywhere on Earth.__
 
-__Best presentation award__
+## Best presentation award
 
 The EPEW 2025 organizing committee will select the best paper presentation, for which a certificate will be presented at the end of the workshop. Note that the selection is based on content, as well as presentation.
 
