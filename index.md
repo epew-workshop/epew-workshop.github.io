@@ -71,7 +71,6 @@ All submitted papers will be reviewed by the program committee based on technica
 
 ## Organizing Committee
 __General Chair__
-
  * Marco Scarpa, University of Messina, Italy
 
 __TPC Chairs__
