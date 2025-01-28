@@ -68,6 +68,19 @@ Springer encourages authors to include their ORCIDs in their papers. Authors sho
 
 All submitted papers will be reviewed by the program committee based on technical quality, relevance, significance, and clarity. 
 
+## Important dates
+
+ * Short paper submission: April 1st, 2025
+ * Acceptance notification for short papers: May 15th, 2025
+ * Full paper submission (__post-proceedings__): July 31st, 2025
+ * Acceptance notification for full papers: September 30th, 2025
+
+__All deadlines are UTC-12, Anywhere on Earth.__
+
+__Best presentation award__
+
+The EPEW 2025 organizing committee will select the best paper presentation, for which a certificate will be presented at the end of the workshop. Note that the selection is based on content, as well as presentation.
+
 
 ## Organizing Committee
 __General Chair__
@@ -107,15 +120,7 @@ __TPC Chairs__
  * Marco Vieira, University of North Carolina, USA
  * Joris Walraevens,Ghent University, Belgium
  * Armin Zimmermann, Technische Universität Ilmenau, Germany
-
-## Important dates
-(All deadlines are UTC-12, Anywhere on Earth)
-
- * Short paper submission: April 1st, 2025
- * Acceptance notification for short papers: May 15th, 2025
- * Full paper submission (post-proceedings): July 31st, 2025
- * Acceptance notification for full papers: September 30th, 2025
-
+ 
 ## Contact
 For any questions, please don’t hesitate to contact us at: [epew2025@easychair.org](epew2025@easychair.org)
 
