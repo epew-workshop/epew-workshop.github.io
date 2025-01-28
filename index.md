@@ -3,7 +3,7 @@ title: EPEW 2025
 feature_text: |
   21st European Performance Engineering Workshop (EPEW 2025) \
   co-located with \ 
-  the 39th ECMS International Conference on Modelling and Simulation (ECMS 2025) \
+  the [39th ECMS International Conference on Modelling and Simulation (ECMS 2025)](https://scs-europe.net/conf/ecms2025) \
   24th June 2025, Catania, Italy
 feature_image: "/uploads/catania.jpg"
 excerpt: "EPEW is an annual event on all aspects of performance modelling and analysis."
@@ -13,7 +13,7 @@ The concept of performance in EPEW 2024 is considered in its broadest sense incl
 
 EPEW 2025 seeks papers based on performance evaluation of systems from theoretical and practical viewpoint. Application of performance evaluation techniques to emerging technologies, like cyber-physical systems ranging from mobile devices and Internet-of-Things (IoT), fog and edge computing, applications to large-scale cloud computing systems, smart grids, security infrastructures, are among the topics of interest to EPEW 2025.
 
-# Program (TBD)
+## Program (TBD)
 
 
 ## Keynote (TBD)
@@ -33,8 +33,6 @@ Theoretical advances in performance modeling and evaluation:
   - Machine learning and deep learning-based approaches for performance evaluation and analysis
   - Multiformalism and Multiparadigm modelling approaches
 
- 
-
 System, software, and network performance engineering:
 
   - Performance-oriented design, architecture, implementation, deployment, monitoring, and maintenance
@@ -45,7 +43,6 @@ System, software, and network performance engineering:
   - Quality of service, and trade-offs between security, performance, dependability, energy consumption, usability, etc.
   - Software performance modeling languages, model composition and tool interoperability
   - 6G and beyond
-
 
 Case studies:
 
@@ -59,7 +56,7 @@ Case studies:
   - Industrial case studies, experience reports and tools, with a solid analysis and theoretical background
 
 
-##### Submission
+## Submissions
 
 EPEW 2025 features __post-proceedings__, with a two-phase review process:
 - Authors are solicited to submit __short papers__ of at most __7 pages__ for presentation at the workshop. Accepted short papers will not be published in the proceedings.
