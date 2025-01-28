@@ -9,7 +9,7 @@ feature_image: "/uploads/catania.jpg"
 excerpt: "EPEW is an annual event on all aspects of performance modelling and analysis."
 ---
 
-The concept of performance in EPEW 2024 is considered in its broadest sense including the notions of Quality of Service, scalability as well as reliability, availability and systems management, among the others. Therefore, of particular interest are the ideas introducing new methods for evaluating complex systems, as well as innovative applications of methodologies and known techniques to the latest generation of systems, networks and computer-based services. 
+The concept of performance in EPEW 2025 is considered in its broadest sense including the notions of Quality of Service, scalability as well as reliability, availability and systems management, among the others. Therefore, of particular interest are the ideas introducing new methods for evaluating complex systems, as well as innovative applications of methodologies and known techniques to the latest generation of systems, networks and computer-based services. 
 
 EPEW 2025 seeks papers based on performance evaluation of systems from theoretical and practical viewpoint. Application of performance evaluation techniques to emerging technologies, like cyber-physical systems ranging from mobile devices and Internet-of-Things (IoT), fog and edge computing, applications to large-scale cloud computing systems, smart grids, security infrastructures, are among the topics of interest to EPEW 2025.
 
