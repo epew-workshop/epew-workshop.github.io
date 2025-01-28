@@ -24,7 +24,6 @@ EPEW 2025 seeks papers based on performance evaluation of systems from theoretic
 Topics of interest include but are not limited to the following topic areas:
 
 Theoretical advances in performance modeling and evaluation:
-
   - Probabilistic, stochastic, or performability models, such as Queueing Networks, Petri Nets, and Process Calculi;
   - Specification of quantitative properties,
   - Analytical and numerical solution techniques and simulation techniques,
@@ -34,7 +33,6 @@ Theoretical advances in performance modeling and evaluation:
   - Multiformalism and Multiparadigm modelling approaches
 
 System, software, and network performance engineering:
-
   - Performance-oriented design, architecture, implementation, deployment, monitoring, and maintenance
   - Constraint-based and model-driven system design
   - Performance analysis, simulation, and experimental design
@@ -45,7 +43,6 @@ System, software, and network performance engineering:
   - 6G and beyond
 
 Case studies:
-
   - Cloud systems, Hybrid Cloud, and Fog Computing Internet of Things
   - Cyber-physical systems
   - E-health systems
@@ -54,7 +51,6 @@ Case studies:
   - Electric vehicles and battery modelling
   - Large-scale systems and scalability analysis of systems, robustness analysis of systems, resilience analysis of systems
   - Industrial case studies, experience reports and tools, with a solid analysis and theoretical background
-
 
 ## Submissions
 
