@@ -2,9 +2,9 @@
 title: EPEW 2025
 feature_text: |
   21st European Performance Engineering Workshop (EPEW 2025) \
-  co-located with \ 
+  co-located with
   the [39th ECMS International Conference on Modelling and Simulation (ECMS 2025)](https://scs-europe.net/conf/ecms2025) \
-  24th June 2025, Catania, Italy
+  26th June 2025, Catania, Italy
 feature_image: "/uploads/catania.jpg"
 excerpt: "EPEW is an annual event on all aspects of performance modelling and analysis."
 ---
