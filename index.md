@@ -13,10 +13,10 @@ The concept of performance in EPEW 2024 is considered in its broadest sense incl
 
 EPEW 2025 seeks papers based on performance evaluation of systems from theoretical and practical viewpoint. Application of performance evaluation techniques to emerging technologies, like cyber-physical systems ranging from mobile devices and Internet-of-Things (IoT), fog and edge computing, applications to large-scale cloud computing systems, smart grids, security infrastructures, are among the topics of interest to EPEW 2025.
 
-# Program
+# Program (TBD)
 
 
-## Keynote
+## Keynote (TBD)
 
 
 ## Call for papers
@@ -61,17 +61,16 @@ Case studies:
 
 ##### Submission
 
-EPEW 2025 seeks __workshop presentations__, submitted in the form of 7 pages _short research papers_ in LNCS format. 
+EPEW 2025 features __post-proceedings__, with a two-phase review process:
+- Authors are solicited to submit __short papers__ of at most __7 pages__ for presentation at the workshop. Accepted short papers will not be published in the proceedings.
+- Authors of accepted short papers will be invited to submit __full papers__ of at most __15 pages__ (i.e., an extended version of the short paper) for publication in the Lecture Notes in Computer Science (LNCS) Series by Springer.
 
-Authors of accepted short papers will be invited to submit an extend version of the short paper for publication in the __post-proceedings__.
+All page limits include tables, figures, and references. All papers must be submitted electronically (in PDF format) in __Springer’s LNCS__ format using [EasyChair](https://easychair.org/my/conference?conf=epew2025).
 
-The page limit of an article in the post-proceedings is 15 pages in LNCS format.
+Springer encourages authors to include their ORCIDs in their papers. Authors should consult Springer's authors' guidelines and use Springer's LaTeX templates for the preparation of their papers. Submitted papers not complying with the above guidelines may be rejected without undergoing review.
 
-All page limits include tables, figures, and references.
+All submitted papers will be reviewed by the program committee based on technical quality, relevance, significance, and clarity. 
 
-All submitted papers will be reviewed on the basis of technical quality, relevance, significance, and clarity by the program committee. 
-All papers should be submitted electronically in PDF format through the [EasyChair workshop website](https://easychair.org/my/conference?conf=epew2024).
-Submissions must follow the LNCS proceedings format.
 
 ## Organizing Committee
 
@@ -81,49 +80,49 @@ __General Chair__
 
 __TPC Chairs__
  
- * Anne Remke, University of Münster, Germany
- * Daniele Di Pompeo, SPENCER Lab, University of L'Aquila, Italy
+ * Laura Carnevali, University of Florence, Italy
+ * Josu Doncel, University of the Basque Country
 
-## Program Committee
+## Program Committee (TBD)
 
- * Salvador, Alcaraz, Miguel Hernandez University                                      
- * Elvio Gilberto, Amparore, University of Turin
- * Paolo, Ballarini, CentraleSupelec
- * Marco, Bernardo, University of Urbino
- * Laura, Carnevali, Dept. of Information Engineering - University of Florence
- * Davide, Cerotti, Università del Piemonte Orientale
- * Carina, Da Silva, University of Münster
- * Dieter, Fiems, Ghent University
- * Matthew, Forshaw, Newcastle University
- * Jean-Michel, Fourneau, DAVID, Universite de Versailles St Quentin
- * Pedro Pablo, Garrido Abenza, Miguel Hernandez University
- * Antonio, Gomez, Complutense University of Madrid
- * Marco, Gribaudo, Politecnico di Milano
- * Nikolas, Herbst, University of Würzburg
- * András, Horváth, University of Turin
- * Alain, Jean-Marie, INRIA
- * Carlos, Juiz, University of the Balearic Islands
- * Lasse, Leskelä, Aalto University
- * Francesco, Longo, University of Messina
- * Marco, Paolieri, University of Southern California
- * Nihal, Pekergin N., Univ. Paris-Est-Creteil
- * Tuan, Phung-Duc, University of Tsukuba
- * Agapios, Platis, University of the Aegean
- * Marco, Scarpa, University of Messina
- * Markus, Siegle, Uni Bw Munich
- * Nigel, Thomas, University of Newcastle
- * Catia, Trubiani, Gran Sasso Science Institute
- * Joris, Walraevens, Ghent University - UGent
+ * Salvador Alcaraz, Miguel Hernandez University, Spain
+ * Elvio Gilberto Amparore, University of Torino, Italy
+ * Paolo Ballarini, Centrale Supelec, France
+ * Simona Bernardi, University of Zaragoza, Spain
+ * Peter Buchholz, Dortmund University, Germany
+ * Giuliano Casale, Imperial College, UK
+ * Davide Cerotti, Technical University of Milan, Italy
+ * Carina da Silva, University of Münster, Germany
+ * Dieter Fiems, Ghent University, Belgium
+ * Matthew Forshaw, Newcastle University, UK
+ * Jean-Michel Fourneau, University of Versailles, France
+ * Pedro Pablo Garrido Abenza, Miguel Hernandez University, Spain
+ * Marco Gribaudo, Technical University of Milan, Italy
+ * Antonio Gomez Corral, Complutense University of Madrid, Spain
+ * Nikolas Herbst, University of Würzburg, Germany
+ * András Horváth, University of Turin, Italy
+ * Carlos Juizm, University of the Balearic Islands, Spain
+ * Lasse Leskelä, Aalto University, Finland
+ * Diletta Olliaro, University of Venice, Italy
+ * Marco Paolieri, University of Southern California, USA
+ * Tuan Phung-Duc, University of Tsukuba, Japan
+ * Agapios Platis, University of Aegean, Greece
+ * Markus Siegle, Tubingen University, Germany
+ * Nigel Thomas, University of Newcastle, UK
+ * Benny Van Houdt, University of Antwerp, Belgium
+ * Marco Vieira, University of North Carolina, USA
+ * Joris Walraevens,Ghent University, Belgium
+ * Armin Zimmermann, Technische Universität Ilmenau, Germany
 
 ## Important dates
-(All deadlines are 23:59, Anywhere on Earth)
+(All deadlines are UTC-12, Anywhere on Earth)
 
- * Deadline for submissions (short paper): ~~7th April~~  ~~21st April~~ __26th April (12:00 CEST)__
- * Acceptance notification:  10th May
- * Deadline for post-proceedings: 31st July
- * Acceptance notification of post-proceedings: 30th September
+ * Short paper submission: April 1st, 2025
+ * Acceptance notification for short papers: May 15th, 2025
+ * Full paper submission (post-proceedings): July 31st, 2025
+ * Acceptance notification for full papers: September 30th, 2025
 
 ## Contact
-For any questions, please don’t hesitate to contact us at: [epew2024@easychair.org](epew2024@easychair.org)
+For any questions, please don’t hesitate to contact us at: [epew2025@easychair.org](epew2025@easychair.org)
 
 
