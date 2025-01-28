@@ -86,7 +86,7 @@ __TPC Chairs__
  * Laura Carnevali, University of Florence, Italy
  * Josu Doncel, University of the Basque Country
 
-## Program Committee (TBD)
+## Program Committee
 
  * Salvador Alcaraz, Miguel Hernandez University, Spain
  * Elvio Gilberto Amparore, University of Torino, Italy
