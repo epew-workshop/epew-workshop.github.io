@@ -79,7 +79,7 @@ The EPEW 2025 organizing committee will select the best paper presentation, for 
 
 
 ## Organizing Committee
-__General Chair__
+__Local Organizer__
  * Marco Scarpa, University of Messina, Italy
 
 __TPC Chairs__
