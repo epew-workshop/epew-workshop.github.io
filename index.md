@@ -92,6 +92,7 @@ __TPC Chairs__
  * Elvio Gilberto Amparore, University of Torino, Italy
  * Paolo Ballarini, Centrale Supelec, France
  * Simona Bernardi, University of Zaragoza, Spain
+ * Marco Bernardo, University of Urbino, Italy
  * Peter Buchholz, Dortmund University, Germany
  * Giuliano Casale, Imperial College, UK
  * Davide Cerotti, Technical University of Milan, Italy
@@ -111,6 +112,7 @@ __TPC Chairs__
  * Tuan Phung-Duc, University of Tsukuba, Japan
  * Agapios Platis, University of Aegean, Greece
  * Markus Siegle, Tubingen University, Germany
+ * Ioannis Stefanakos, University of York, UK
  * Nigel Thomas, University of Newcastle, UK
  * Benny Van Houdt, University of Antwerp, Belgium
  * Marco Vieira, University of North Carolina, USA
