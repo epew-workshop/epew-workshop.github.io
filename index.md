@@ -55,7 +55,7 @@ Case studies:
 ## Submissions
 
 EPEW 2025 features __post-proceedings__, with a two-phase review process:
-- Authors are solicited to submit __short papers__ of at most __7 pages__ for presentation at the workshop. Accepted short papers will not be published in the proceedings.
+- Authors are solicited to submit __short papers__ of at most __7-10 pages__ for presentation at the workshop. Accepted short papers will not be published in the proceedings.
 - Authors of accepted short papers will be invited to submit __full papers__ of at most __15 pages__ (i.e., an extended version of the short paper) for publication in the post-proceedings.
 
 All page limits include tables, figures, and references. All papers must be submitted electronically (in PDF format) using [EasyChair](https://easychair.org/my/conference?conf=epew2025).
