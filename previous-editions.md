@@ -1,7 +1,7 @@
 ---
 #title: EPEW Previous Editions
 feature_text: |
-  European Performance Engineering Workshop (EPEW) \
+  European Performance Engineering Workshop (EPEW)
 feature_image: "/uploads/catania.jpg"
 excerpt: "EPEW is an annual event on all aspects of performance modelling and analysis."
 ---
