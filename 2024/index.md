@@ -57,7 +57,7 @@ If you want to use the public transportation of the municipality you can use the
 
 __Mirco Tribastone__
 
-<img src="uploads/mirco-tribastone.jpg" width="100" /> 
+<img src="/../uploads/mirco-tribastone.jpg" width="100" /> 
 
 __Title__
 
