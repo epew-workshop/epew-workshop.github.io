@@ -20,7 +20,7 @@ EPEW 2025 seeks papers based on performance evaluation of systems from a theoret
 
 __Reinhard German__
 
-<img src="/uploads/reinhard-german.jpg" width="100" /> 
+<img src="/uploads/reinhard-german.jpg" width="200" /> 
 
 __Title__
 
