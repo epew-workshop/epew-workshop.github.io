@@ -16,8 +16,23 @@ EPEW 2025 seeks papers based on performance evaluation of systems from a theoret
 ## Program (TBD)
 
 
-## Keynote (TBD)
+## Keynote
 
+__Reinhard German__
+
+<img src="/uploads/reinhard-german.jpg" width="100" /> 
+
+__Title__
+
+Analyzing Energy Systems with Agent-Based and Data-Centric Distributed Simulation
+
+__Abstract__
+
+Energy systems are getting more complex by the integration of decentralized renewable generation, electric storages, flexible loads, multiple energy carriers, sector-coupling, and control by IT systems. Simulation is needed at all levels for understanding, planning, and optimized operation. We have provided two open-source simulation frameworks with this goal. First, we present i7-AnyEnergy as a library using the agent-based paradigm of AnyLogic, enhanced by the cellular approach and object-oriented programming concepts such as the dependency injection pattern so that “rapid modeling” is possible. It is illustrated by examples from industrial, public, and student projects: a cement plant enriched with a wind turbine and a battery, residential buildings with different heating options (such a gas or heat pump), and a sector-coupled energy system at the regional level. In all cases relevant KPIs such as costs and emissions can be provided. Second, we present Data-Centric Distributed Simulation (daceDS) as a framework for cross-domain and multi-level simulation necessary in more complex settings, as for instance in the NFDI4Energy project. It uses a domain-level taxonomy and topic-based publish-subscribe messaging for a loose coupling of simulation processes. We will present an example in which simulations from mobility and electric network domains can be coupled. We will then outline ongoing efforts to integrate AI-based control.
+
+__Bio__
+
+Reinhard German received his PhD degree from Computer Science Department, TU Berlin, Germany in 1994. He is a Full Professor at the Computer Networks Lab in the Department of Computer Science, FAU, Erlangen-Nuremberg, Germany. He is also conducting research at the Energie Campus Nürnberg. From 2020 to 2024 he was an Adjunct Professor at the group of Sustainable Energy Systems of Monash University, Melbourne, Australia. His research interests include performance and dependability analysis of interconnected systems based on numerical analysis, network calculus, discrete-event simulation, and measurements. Satellite communications, vehicular communications and smart energy constitute major application domains.
 
 ## Scope and topics
 
