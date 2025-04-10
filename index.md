@@ -18,7 +18,7 @@ EPEW 2025 seeks papers based on performance evaluation of systems from a theoret
 
 ## Registration
 
-Authors and participants can register via the [ECMS registration page](https://scs-europe.net/conf/ecms2025/authors-info/registration-and-payment).
+Authors and participants can register to EPEW via the [ECMS registration page](https://scs-europe.net/conf/ecms2025/authors-info/registration-and-payment).
 
 
 ## Keynote
