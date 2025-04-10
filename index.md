@@ -16,6 +16,11 @@ EPEW 2025 seeks papers based on performance evaluation of systems from a theoret
 ## Program (TBD)
 
 
+## Registration
+
+Authors and participants can register via the [ECMS registration page](https://scs-europe.net/conf/ecms2025/authors-info/registration-and-payment).
+
+
 ## Keynote
 
 __Reinhard German__
