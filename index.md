@@ -135,7 +135,7 @@ __TPC Chairs__
  * Marco Paolieri, University of Southern California, USA
  * Tuan Phung-Duc, University of Tsukuba, Japan
  * Agapios Platis, University of Aegean, Greece
- * Markus Siegle, Tubingen University, Germany
+ * Markus Siegle, University of the Bundeswehr Munich, Germany
  * Ioannis Stefanakos, University of York, UK
  * Nigel Thomas, University of Newcastle, UK
  * Benny Van Houdt, University of Antwerp, Belgium
