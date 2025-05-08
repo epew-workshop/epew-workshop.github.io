@@ -18,7 +18,11 @@ EPEW 2025 seeks papers based on performance evaluation of systems from a theoret
 
 ## Registration
 
-Authors and participants can register to EPEW via the [ECMS 2025 registration page](https://scs-europe.net/conf/ecms2025/authors-info/registration-and-payment).
+The registration fee is €275 for each participant (either author of a paper or not).
+
+A participant can register to EPEW via the [ECMS 2025 registration page](https://scs-europe.net/conf/ecms2025/authors-info/registration-and-payment).
+
+Please specify participant name and "EPEW 2025" in the bank transfer, and "EPEW 2025" and paper ID (if any) in the registration sheet.
 
 
 ## Keynote (joint with ECMS 2025)
