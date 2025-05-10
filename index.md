@@ -24,6 +24,8 @@ A participant can register to EPEW via the [ECMS 2025 registration page](https:/
 
 Please specify participant name and "EPEW 2025" in the bank transfer, and "EPEW 2025" and paper ID (if any) in the registration sheet.
 
+The deadline of registration is May 31th, 2025 (AOE).
+
 
 ## Keynote (joint with ECMS 2025)
 
@@ -91,7 +93,7 @@ All submitted papers will be reviewed by the program committee based on technica
 ## Important dates
 
  * Short paper submission: ~~April 1, 2025~~ **April 29th, 2025 (extended)**
- * Acceptance notification for short papers: May 15th, 2025
+ * Acceptance notification for short papers: ~~May 15, 2025~~ **May 22th, 2025 (extended)**
  * Full paper submission (__post-proceedings__): July 31st, 2025
  * Acceptance notification for full papers: September 30th, 2025
 
