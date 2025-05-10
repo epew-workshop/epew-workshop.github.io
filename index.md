@@ -45,7 +45,8 @@ __Bio__
 
 Reinhard German received his PhD degree from Computer Science Department, TU Berlin, Germany in 1994. He is a Full Professor at the Computer Networks Lab in the Department of Computer Science, FAU, Erlangen-Nuremberg, Germany. He is also conducting research at the Energie Campus Nürnberg. From 2020 to 2024 he was an Adjunct Professor at the group of Sustainable Energy Systems of Monash University, Melbourne, Australia. His research interests include performance and dependability analysis of interconnected systems based on numerical analysis, network calculus, discrete-event simulation, and measurements. Satellite communications, vehicular communications and smart energy constitute major application domains.
 
-## Scope and topics
+## Call for papers
+### Scope and topics
 
 Topics of interest include but are not limited to the following topic areas:
 
@@ -78,7 +79,7 @@ Case studies:
   - Large-scale systems and scalability analysis of systems, robustness analysis of systems, resilience analysis of systems
   - Industrial case studies, experience reports and tools, with a solid analysis and theoretical background
 
-## Submissions
+### Submissions
 
 EPEW 2025 features __post-proceedings__, with a two-phase review process:
 - Authors are solicited to submit __short papers__ of at most __7-10 pages__ for presentation at the workshop. Accepted short papers will not be published in the proceedings.
