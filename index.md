@@ -13,7 +13,7 @@ The concept of performance in EPEW 2025 is considered in its broadest sense incl
 
 EPEW 2025 seeks papers based on performance evaluation of systems from a theoretical and practical viewpoint. Application of performance evaluation techniques to emerging technologies, like cyber-physical systems ranging from mobile devices and Internet-of-Things (IoT), fog and edge computing, applications to large-scale cloud computing systems, smart grids, security infrastructures, are among the topics of interest to EPEW 2025.
 
-## Program (TBD)
+## Program
 
 |Time <br/> UTC+2 |Paper Title                                                                                    |
 |-------|---------------------------------------------------------------------------------------------------------|
