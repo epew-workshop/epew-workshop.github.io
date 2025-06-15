@@ -39,6 +39,7 @@ EPEW 2025 seeks papers based on performance evaluation of systems from a theoret
 |16:15| **CyberSecurity Performance Evaluation through Attack Block Diagrams** <br/> Salvatore Distefano |
 |16:40| **Closing Remarks** 
 
+
 ## Registration
 
 The registration fee is €275 for each participant (either author of a paper or not).
