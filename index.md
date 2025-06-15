@@ -37,7 +37,7 @@ EPEW 2025 seeks papers based on performance evaluation of systems from a theoret
 |15:25| **On Portability of Software Performance Modeling Solutions to the Energy Domain** <br/> Vittorio Cortellessa |
 |15:50| **Risk Assessment Models in Hydroelectric Plants** <br/> Davide Cerotti, Daniele Codetta-Raiteri, Marzio Alfio Pennisi, Lavinia Egidi, Giuliana Franceschinis, Andrea Bobbio, Luigi Portinale, Marco Cappicciola, Edoardo Martino L'Aurora and Noemi Silicato |
 |16:15| **CyberSecurity Performance Evaluation through Attack Block Diagrams** <br/> Salvatore Distefano |
-|16:40| **Closing Remarks** 
+|16:40| **Closing Remarks and Best Presentation Award** 
 
 
 ## Registration
