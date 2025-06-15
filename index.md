@@ -17,27 +17,27 @@ EPEW 2025 seeks papers based on performance evaluation of systems from a theoret
 
 |Time <br/> UTC+2 |Paper Title                                                                                    |
 |-------|---------------------------------------------------------------------------------------------------------|
-|09:00 - 10:00 | Keynote speech by Reinhard German|
-|10:00 - 10:25 | **COFFEE BREAK**| 
-|10:25 | **Opening Remarks**|
-|10:30 - 13:00 | _Session 1 -- Chair: TBD_ |
-|10:30 | **Enhancing Multiformalism Models with Rewrite Engines** <br/> Enrico Barbierato, Lorenzo Capra, Marco Gribaudo and Mauro Iacono |
-|10:55 | **Response time in a tandem network of two processor sharing queues** <br/> Julianna Bor and Peter G Harrison |
-|11:20 | **Performance analysis and load balancing in a multi-tier buffered cellular network** <br/> Taisia Morozova and Ingemar Kaj |
-|11:45 | **The Pyramis Library: Efficient Numerical Evaluation of Hierarchical UML Statecharts applied to Stochastic Workflows** <br/> Laura Carnevali, Reinhard German, Leonardo Montecchi, Leonardo Scommegna and Enrico Vicario |
-|12:10 | **On Synchronous Approximations of Non-Markovian Processes with Dual Bounds** <br/>  Reinhard German |
-|12:35 | **Approximating Heavy-Tailed Distributions with a Mixture of Bernstein Phase-Type and Hyperexponential Models** <br/> Abdelhakim Ziani, András Horváth and Paolo Ballarini |
-|13:00 - 13:45 | **LUNCH BREAK**                                                                                 |
-|13:45 - 15:00 | _Session 2 -- Chair: TBD_ |
-|13:45 | **Beyond Core Count: Optimizing Vertical Autoscaling with Performance-aware Hardware Configuration Selection** <br/> Daniele Di Pompeo, Emilio Incerto and Michele Tucci |
-|14:10 | **Performance-aware Microservices Architecture Planning** <br/> Salvatore Distefano, Marco Scarpa, Antonio Capizzi and Giovanni Mancini |
-|14:35 | **Accelerating Mobile Inference through Fine-Grained CPU-GPU Co-Execution** <br/> Zhuojin Li, Marco Paolieri and Leana Golubchik |
-|15:00 - 15:25 | **COFFEE BREAK**| 
-|15:25 - 16:40 | _Session 3 -- Chair: TBD_ |
-|15:25 | **On Portability of Software Performance Modeling Solutions to the Energy Domain** <br/> Vittorio Cortellessa |
-|15:50 | **Risk Assessment Models in Hydroelectric Plants** <br/> Davide Cerotti, Daniele Codetta-Raiteri, Marzio Alfio Pennisi, Lavinia Egidi, Giuliana Franceschinis, Andrea Bobbio, Luigi Portinale, Marco Cappicciola, Edoardo Martino L'Aurora and Noemi Silicato |
-|16:15 | **CyberSecurity Performance Evaluation through Attack Block Diagrams** <br/> Salvatore Distefano |
-|16:40 | **Closing Remarks** 
+|09:00 - 10:00| Keynote speech by Reinhard German|
+|10:00 - 10:25| **COFFEE BREAK**| 
+|10:25| **Opening Remarks**|
+|10:30 - 13:00| _Session 1 -- Chair: TBD_ |
+|10:30| **Enhancing Multiformalism Models with Rewrite Engines** <br/> Enrico Barbierato, Lorenzo Capra, Marco Gribaudo and Mauro Iacono |
+|10:55| **Response time in a tandem network of two processor sharing queues** <br/> Julianna Bor and Peter G Harrison |
+|11:20| **Performance analysis and load balancing in a multi-tier buffered cellular network** <br/> Taisia Morozova and Ingemar Kaj |
+|11:45| **The Pyramis Library: Efficient Numerical Evaluation of Hierarchical UML Statecharts applied to Stochastic Workflows** <br/> Laura Carnevali, Reinhard German, Leonardo Montecchi, Leonardo Scommegna and Enrico Vicario |
+|12:10| **On Synchronous Approximations of Non-Markovian Processes with Dual Bounds** <br/>  Reinhard German |
+|12:35| **Approximating Heavy-Tailed Distributions with a Mixture of Bernstein Phase-Type and Hyperexponential Models** <br/> Abdelhakim Ziani, András Horváth and Paolo Ballarini |
+|13:00 - 13:45| **LUNCH BREAK**                                                                                 |
+|13:45 - 15:00| _Session 2 -- Chair: TBD_ |
+|13:45| **Beyond Core Count: Optimizing Vertical Autoscaling with Performance-aware Hardware Configuration Selection** <br/> Daniele Di Pompeo, Emilio Incerto and Michele Tucci |
+|14:10| **Performance-aware Microservices Architecture Planning** <br/> Salvatore Distefano, Marco Scarpa, Antonio Capizzi and Giovanni Mancini |
+|14:35| **Accelerating Mobile Inference through Fine-Grained CPU-GPU Co-Execution** <br/> Zhuojin Li, Marco Paolieri and Leana Golubchik |
+|15:00 - 15:25| **COFFEE BREAK**| 
+|15:25 - 16:40| _Session 3 -- Chair: TBD_ |
+|15:25| **On Portability of Software Performance Modeling Solutions to the Energy Domain** <br/> Vittorio Cortellessa |
+|15:50| **Risk Assessment Models in Hydroelectric Plants** <br/> Davide Cerotti, Daniele Codetta-Raiteri, Marzio Alfio Pennisi, Lavinia Egidi, Giuliana Franceschinis, Andrea Bobbio, Luigi Portinale, Marco Cappicciola, Edoardo Martino L'Aurora and Noemi Silicato |
+|16:15| **CyberSecurity Performance Evaluation through Attack Block Diagrams** <br/> Salvatore Distefano |
+|16:40| **Closing Remarks** 
 
 ## Registration
 
