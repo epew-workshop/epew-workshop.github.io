@@ -24,7 +24,7 @@ EPEW 2025 seeks papers based on performance evaluation of systems from a theoret
 |10:30| **Enhancing Multiformalism Models with Rewrite Engines** [[pdf](https://ehubox.ehu.eus/s/Fmsk57np6irwnM8)] <br/> Enrico Barbierato, Lorenzo Capra, Marco Gribaudo and Mauro Iacono |
 |10:55| **Response time in a tandem network of two processor sharing queues** [[pdf](https://ehubox.ehu.eus/s/A4DSYPdeR8iPXmo)] <br/> Julianna Bor and Peter G Harrison |
 |11:20| **Performance analysis and load balancing in a multi-tier buffered cellular network** [[pdf](https://ehubox.ehu.eus/s/rGctHSG2SJy6wxN)] <br/> Taisia Morozova and Ingemar Kaj |
-|11:45 - 13:00| _Session 2 -- Chair: TBD_ |
+|11:45 - 13:00| _Session 2 -- Chair: Marco Scarpa_ |
 |11:45| **The Pyramis Library: Efficient Numerical Evaluation of Hierarchical UML Statecharts applied to Stochastic Workflows** [[pdf](https://ehubox.ehu.eus/s/x5LHS2GMQp2K8Gs)] <br/> Laura Carnevali, Reinhard German, Leonardo Montecchi, Leonardo Scommegna and Enrico Vicario |
 |12:10| **On Synchronous Approximations of Non-Markovian Processes with Dual Bounds** [[pdf](https://ehubox.ehu.eus/s/gcqqFSZ9Jdz94jR)] <br/>  Reinhard German |
 |12:35| **Approximating Heavy-Tailed Distributions with a Mixture of Bernstein Phase-Type and Hyperexponential Models** [[pdf](https://ehubox.ehu.eus/s/i96AYwnXw2kYZ7E)] <br/> Abdelhakim Ziani, András Horváth and Paolo Ballarini |
