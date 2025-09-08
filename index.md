@@ -120,7 +120,7 @@ All submitted papers will be reviewed by the program committee based on technica
 
  * Short paper submission: ~~April 1st, 2025~~ **April 29th, 2025 (extended)**
  * Acceptance notification for short papers: ~~May 15th, 2025~~ **May 22th, 2025 (extended)**
- * Full paper submission (__post-proceedings__): ~~July 31st, 2025~~ **September 7th, 2025 (extended)**
+ * Full paper submission (__post-proceedings__): ~~July 31st, 2025~~ **September 18th, 2025 (extended)**
  * Acceptance notification for full papers: September 30th, 2025
 
 __All deadlines are UTC-12, Anywhere on Earth.__
