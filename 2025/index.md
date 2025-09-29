@@ -1,17 +1,17 @@
 ---
-title: EPEW 2026
+title: EPEW 2025
 feature_text: |
-  22nd European Performance Engineering Workshop (EPEW 2026) \
+  21st European Performance Engineering Workshop (EPEW 2025) \
   co-located with
-  the [40th ECMS International Conference on Modelling and Simulation (ECMS 2026)](https://scs-europe.net/conf/ecms2026) \
-  XXXX
+  the [39th ECMS International Conference on Modelling and Simulation (ECMS 2025)](https://scs-europe.net/conf/ecms2025) \
+  June 26th, 2025, Catania, Italy
 feature_image: "/uploads/catania.jpg"
 excerpt: "EPEW is an annual event on all aspects of performance modelling and analysis."
 ---
 
-The concept of performance in EPEW 2026 is considered in its broadest sense including the notions of Quality of Service, scalability as well as reliability, availability and systems management, among the others. Therefore, of particular interest are the ideas introducing new methods for evaluating complex systems, as well as innovative applications of methodologies and known techniques to the latest generation of systems, networks and computer-based services. 
+The concept of performance in EPEW 2025 is considered in its broadest sense including the notions of Quality of Service, scalability as well as reliability, availability and systems management, among the others. Therefore, of particular interest are the ideas introducing new methods for evaluating complex systems, as well as innovative applications of methodologies and known techniques to the latest generation of systems, networks and computer-based services. 
 
-EPEW 2026 seeks papers based on performance evaluation of systems from a theoretical and practical viewpoint. Application of performance evaluation techniques to emerging technologies, like cyber-physical systems ranging from mobile devices and Internet-of-Things (IoT), fog and edge computing, applications to large-scale cloud computing systems, smart grids, security infrastructures, are among the topics of interest to EPEW 2026.
+EPEW 2025 seeks papers based on performance evaluation of systems from a theoretical and practical viewpoint. Application of performance evaluation techniques to emerging technologies, like cyber-physical systems ranging from mobile devices and Internet-of-Things (IoT), fog and edge computing, applications to large-scale cloud computing systems, smart grids, security infrastructures, are among the topics of interest to EPEW 2025.
 
 ## Program
 
@@ -45,14 +45,14 @@ EPEW 2026 seeks papers based on performance evaluation of systems from a theoret
 
 The registration fee is €275 for each participant (either author of a paper or not).
 
-A participant can register to EPEW via the [ECMS 2026 registration page](https://scs-europe.net/conf/ecms2026/authors-info/registration-and-payment).
+A participant can register to EPEW via the [ECMS 2025 registration page](https://scs-europe.net/conf/ecms2025/authors-info/registration-and-payment).
 
-Please specify participant name and "EPEW 2026" in the bank transfer, and "EPEW 2026" and paper ID (if any) in the registration sheet.
+Please specify participant name and "EPEW 2025" in the bank transfer, and "EPEW 2025" and paper ID (if any) in the registration sheet.
 
-The deadline of registration is May 31th, 2026 (AOE).
+The deadline of registration is May 31th, 2025 (AOE).
 
 
-## Keynote (joint with ECMS 2026)
+## Keynote (joint with ECMS 2025)
 
 __Reinhard German__
 
@@ -106,11 +106,11 @@ Case studies:
 
 ### Submissions
 
-EPEW 2026 features __post-proceedings__, with a two-phase review process:
+EPEW 2025 features __post-proceedings__, with a two-phase review process:
 - Authors are solicited to submit __short papers__ of at most __7-10 pages__ for presentation at the workshop. Accepted short papers will not be published in the proceedings.
 - Authors of accepted short papers will be invited to submit __full papers__ of at most __15 pages__ (i.e., an extended version of the short paper) for publication in the post-proceedings.
 
-All page limits include tables, figures, and references. All papers must be submitted electronically in __Springer’s LNCS format__ (in PDF format) using [EasyChair](https://easychair.org/my/conference?conf=epew2026).
+All page limits include tables, figures, and references. All papers must be submitted electronically in __Springer’s LNCS format__ (in PDF format) using [EasyChair](https://easychair.org/my/conference?conf=epew2025).
 
 Springer encourages authors to include their ORCIDs in their papers. Authors should consult Springer's authors' guidelines and use Springer's LaTeX templates for the preparation of their papers. Submitted papers not complying with the above guidelines may be rejected without undergoing review.
 
@@ -118,25 +118,64 @@ All submitted papers will be reviewed by the program committee based on technica
 
 ## Important dates
 
- * TBD
+ * Short paper submission: ~~April 1st, 2025~~ **April 29th, 2025 (extended)**
+ * Acceptance notification for short papers: ~~May 15th, 2025~~ **May 22th, 2025 (extended)**
+ * Full paper submission (__post-proceedings__): ~~July 31st, 2025~~ **September 18th, 2025 (extended)**
+ * Acceptance notification for full papers: September 30th, 2025
 
 __All deadlines are UTC-12, Anywhere on Earth.__
 
 ## Best presentation award
 
-The EPEW 2026 organizing committee will select the best paper presentation, for which a certificate will be presented at the end of the workshop. Note that the selection is based on content, as well as presentation.
+The EPEW 2025 organizing committee will select the best paper presentation, for which a certificate will be presented at the end of the workshop. Note that the selection is based on content, as well as presentation.
 
 
 ## Organizing Committee
+__Local Organizer__
+ * Marco Scarpa, University of Messina, Italy
 
 __TPC Chairs__
- * XXXX
+ * Laura Carnevali, University of Florence, Italy
+ * Josu Doncel, University of the Basque Country
 
 ## Program Committee
 
- * TBD
+ * Salvador Alcaraz, Miguel Hernandez University, Spain
+ * Elvio Gilberto Amparore, University of Torino, Italy
+ * Paolo Ballarini, Centrale Supelec, France
+ * Simona Bernardi, University of Zaragoza, Spain
+ * Marco Bernardo, University of Urbino, Italy
+ * Peter Buchholz, Dortmund University, Germany
+ * Giuliano Casale, Imperial College, UK
+ * Davide Cerotti, Technical University of Milan, Italy
+ * Carina da Silva, University of Münster, Germany
+ * Dieter Fiems, Ghent University, Belgium
+ * Matthew Forshaw, Newcastle University, UK
+ * Jean-Michel Fourneau, University of Versailles, France
+ * Pedro Pablo Garrido Abenza, Miguel Hernandez University, Spain
+ * Marco Gribaudo, Technical University of Milan, Italy
+ * Antonio Gomez Corral, Complutense University of Madrid, Spain
+ * Nikolas Herbst, University of Würzburg, Germany
+ * András Horváth, University of Turin, Italy
+ * Mauro Iacono, Università degli Studi della Campania "Luigi Vanvitelli", Italy
+ * Emilio Incerto, IMT School for Advanced Studies Lucca, Italy
+ * Alain Jean-Marie, INRIA, France
+ * Carlos Juiz, University of the Balearic Islands, Spain
+ * Lasse Leskelä, Aalto University, Finland
+ * Francesco Longo, University of Messina, Italy
+ * Diletta Olliaro, University of Venice, Italy
+ * Marco Paolieri, University of Southern California, USA
+ * Tuan Phung-Duc, University of Tsukuba, Japan
+ * Agapios Platis, University of Aegean, Greece
+ * Markus Siegle, University of the Bundeswehr Munich, Germany
+ * Ioannis Stefanakos, University of York, UK
+ * Nigel Thomas, University of Newcastle, UK
+ * Benny Van Houdt, University of Antwerp, Belgium
+ * Marco Vieira, University of North Carolina, USA
+ * Joris Walraevens, Ghent University, Belgium
+ * Armin Zimmermann, Technische Universität Ilmenau, Germany
  
 ## Contact
-For any questions, please don’t hesitate to contact us at: XXXXX
+For any questions, please don’t hesitate to contact us at: [epew2025@easychair.org](epew2025@easychair.org)
 
 
