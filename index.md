@@ -85,6 +85,7 @@ __Technical Programme Committee__
 * Ioannis Dimitriou, University of Ioannina, Greece 
 * Josu Doncel, University of the Basque Country, Spain 
 * Dieter Fiems, Ghent University, Belgium
+* Marco Gribaudo, Technical University of Milan, Italy 
 * Jean-Michel Fourneau, University of Versailles, France 
 * Pedro Pablo Garrido Abenza, Miguel Hernandez University, Spain 
 * Nikolas Herbst, University of Würzburg, Germany 
@@ -108,14 +109,13 @@ __Technical Programme Committee__
 
 
 <!-- 
- * Elvio Gilberto Amparore, University of Torino, Italy 
- * Paolo Ballarini, Centrale Supelec, France 
+* Elvio Gilberto Amparore, University of Torino, Italy 
+* Paolo Ballarini, Centrale Supelec, France 
 * Matthew Forshaw, Newcastle University, UK 
-* Marco Gribaudo, Technical University of Milan, Italy 
 * Antonio Gomez Corral, Complutense University of Madrid, Spain 
 * András Horváth, University of Turin, Italy 
 * Carlos Juiz, University of the Balearic Islands, Spain 
- -->
+-->
 
 ## Contact
 For any questions, please don’t hesitate to contact us at: [epew2026@easychair.org](epew2026@easychair.org)
