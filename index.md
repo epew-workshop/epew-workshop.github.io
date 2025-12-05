@@ -21,7 +21,7 @@ __Scope and topics__
 
 Topics of interest include, but are not limited to, the following topic areas:
 
-Theoretical advances in performance modeling and evaluation:
+Theoretical advances in performance modelling and evaluation:
   - Probabilistic, stochastic, or performability models, such as Queueing Networks, Petri Nets, and Process Calculi
   - Analytical and numerical solution techniques and simulation techniques
   - Quantitative model checking, equivalence checking, and static analysis
@@ -35,7 +35,7 @@ System, software, and network performance engineering:
   - Performance analysis, simulation, and experimental design
   - Benchmark design and benchmark-based evaluation and monitoring
   - Quality of service, and trade-offs between security, performance, dependability, energy consumption, usability, etc.
-  - Software performance modeling languages, model composition, and tool interoperability
+  - Software performance modelling languages, model composition, and tool interoperability
 
 Case studies:
   - Cloud systems, Hybrid Cloud, and Fog Computing Internet of Things
@@ -50,12 +50,12 @@ Case studies:
 __Submissions__
 
 Authors are solicited to submit full papers of at most 15 pages for publication in the proceedings.
-The page limit includes tables, figures, and references. All papers must be submitted electronically in __Springer’s LNCS format__ (in PDF format) using EasyChair. Springer encourages authors to include their ORCIDs in their papers. Authors should consult Springer’s authors’ guidelines and use Springer’s LaTeX templates for the preparation of their papers. Submitted papers not complying with the above guidelines may be rejected without undergoing review. All submitted papers will be reviewed by the program committee based on technical quality, relevance, significance, and clarity.
+The page limit includes tables, figures, and references. All papers must be submitted electronically in __Springer’s LNCS format__ (in PDF format) using [EasyChair](https://easychair.org/my2/conference?conf=epew2026). Springer encourages authors to include their ORCIDs in their papers. Authors should consult Springer’s authors’ guidelines and use Springer’s LaTeX templates for the preparation of their papers. Submitted papers not complying with the above guidelines may be rejected without undergoing review. All submitted papers will be reviewed by the program committee based on technical quality, relevance, significance, and clarity.
 
 
 __Best presentation award__
 
-The EPEW 2026 organizing committee will select the best paper presentation, for which a certificate will be presented at the end of
+The EPEW 2026 organising committee will select the best paper presentation, for which a certificate will be presented at the end of
 the workshop. Note that the selection is based on both content and presentation.
 
 
