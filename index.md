@@ -75,42 +75,43 @@ __Technical Programme Committee Chairs__
  * Mauro Iacono,  Università degli Studi della Campania "Luigi Vanvitelli", Italy
 
 __Technical Programme Committee__
-* Salvador Alcaraz, Miguel Hernandez University, Spain 
-* Marco Bernardo, University of Urbino, Italy 
-* Simona Bernardi, University of Zaragoza, Spain 
-* Peter Buchholz, Dortmund University, Germany 
-* Laura Carnevali, University of Florence, Italy 
-* Davide Cerotti, Università del Piemonte Orientale, Italy 
-* Daniele Di Pompeo, University of L’Aquila, Italy 
-* Ioannis Dimitriou, University of Ioannina, Greece 
-* Josu Doncel, University of the Basque Country, Spain 
+
+* Salvador Alcaraz, Miguel Hernandez University, Spain
+* Paolo Ballarini, Centrale Supelec, France 
+* Simona Bernardi, University of Zaragoza, Spain
+* Marco Bernardo, University of Urbino, Italy
+* Peter Buchholz, Dortmund University, Germany
+* Laura Carnevali, University of Florence, Italy
+* Davide Cerotti, Università del Piemonte Orientale, Italy
+* Daniele Di Pompeo, University of L’Aquila, Italy
+* Ioannis Dimitriou, University of Ioannina, Greece
+* Josu Doncel, University of the Basque Country, Spain
 * Dieter Fiems, Ghent University, Belgium
-* Marco Gribaudo, Technical University of Milan, Italy 
-* Jean-Michel Fourneau, University of Versailles, France 
-* Pedro Pablo Garrido Abenza, Miguel Hernandez University, Spain 
-* Nikolas Herbst, University of Würzburg, Germany 
+* Jean-Michel Fourneau, University of Versailles, France
+* Pedro Pablo Garrido Abenza, Miguel Hernandez University, Spain
+* Marco Gribaudo, Technical University of Milan, Italy
+* Nikolas Herbst, University of Würzburg, Germany
 * Mauro Iacono,  Università degli Studi della Campania "Luigi Vanvitelli", Italy
-* Alain Jean-Marie, INRIA, France 
-* Lasse Leskelä, Aalto University, Finland 
-* Francesco Longo, University of Messina, Italy 
-* Anne Remke, Westfälische Wilhelms-Universität Münster, Germany 
-* Marco Paolieri, University of Southern California, USA 
-* Tuan Phung-Duc, University of Tsukuba, Japan 
-* Agapios Platis, University of Aegean, Greece 
-* Markus Siegle, University of the Bundeswehr Munich, Germany 
-* Ioannis Stefanakos, University of York, UK 
-* Marco Scarpa, University of Messina, Italy 
-* Miklos Telek, Budapest University of Technology and Economics, Hungary 
-* Nigel Thomas, University of Newcastle, UK 
-* Benny Van Houdt, University of Antwerp, Belgium 
+* Alain Jean-Marie, INRIA, France
+* Lasse Leskelä, Aalto University, Finland
+* Francesco Longo, University of Messina, Italy  
+* Marco Paolieri, University of Southern California, USA
+* Tuan Phung-Duc, University of Tsukuba, Japan
+* Agapios Platis, University of Aegean, Greece
+* Anne Remke, Westfälische Wilhelms-Universität Münster, Germany
+* Marco Scarpa, University of Messina, Italy  
+* Markus Siegle, University of the Bundeswehr Munich, Germany
+* Ioannis Stefanakos, University of York, UK
+* Miklos Telek, Budapest University of Technology and Economics, Hungary
+* Nigel Thomas, University of Newcastle, UK
+* Benny Van Houdt, University of Antwerp, Belgium
 * Marco Vieira, University of North Carolina, USA
-* Joris Walraevens, Ghent University, Belgium 
-* Armin Zimmermann, Technische Universität Ilmenau, Germany 
+* Joris Walraevens, Ghent University, Belgium
+* Armin Zimmermann, Technische Universität Ilmenau, Germany
 
 
 <!-- 
 * Elvio Gilberto Amparore, University of Torino, Italy 
-* Paolo Ballarini, Centrale Supelec, France 
 * Matthew Forshaw, Newcastle University, UK 
 * Antonio Gomez Corral, Complutense University of Madrid, Spain 
 * András Horváth, University of Turin, Italy 
