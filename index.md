@@ -9,7 +9,7 @@ feature_image: "/uploads/grimstad2.jpg"
 excerpt: "EPEW is an annual event on all aspects of performance modelling and analysis."
 ---
 
-**Deadline extended till 15 February 2026** 
+**Further deadline extension till 10 March 2026** 
 
 The European Performance Engineering Workshop is an annual event that brings together researchers working across all aspects of performance engineering.
 EPEW 2026 considers the concept of performance in the broadest possible sense, encompassing Quality of Service, scalability, reliability, availability, systems management, and related dimensions. We are particularly interested in contributions that propose new ways to evaluate complex systems, as well as novel uses of established models, methodologies, and techniques when applied to emerging systems, networks, and computer-based services.
@@ -64,8 +64,8 @@ the workshop. Note that the selection is based on both content and presentation.
 ## Important dates
 
  * Submission site opens: 1 January 2026
- * Paper submission: ~~1 February 2026~~ 15 February 2026
- * Acceptance notification for full papers: 15 March 2026
+ * Paper submission: ~~1 February 2026~~ 10 March 2026
+ * Acceptance notification for full papers: ~~15 March 2026~~ 5 April 2026
 
 All deadlines are UTC-12, anywhere on Earth.
 
