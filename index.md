@@ -4,17 +4,141 @@ feature_text: |
   22nd European Performance Engineering Workshop (EPEW 2026) \
   co-located with
   the [40th ECMS International Conference on Modelling and Simulation (ECMS 2026)](https://scs-europe.net/conf/ecms2026) \
-  June 24-26, 2026, Grimstad, Norway
+  June 25, 2026, Grimstad, Norway
 feature_image: "/uploads/grimstad2.jpg"
 excerpt: "EPEW is an annual event on all aspects of performance modelling and analysis."
 ---
-
-**Further deadline extension till 10 March 2026** 
 
 The European Performance Engineering Workshop is an annual event that brings together researchers working across all aspects of performance engineering.
 EPEW 2026 considers the concept of performance in the broadest possible sense, encompassing Quality of Service, scalability, reliability, availability, systems management, and related dimensions. We are particularly interested in contributions that propose new ways to evaluate complex systems, as well as novel uses of established models, methodologies, and techniques when applied to emerging systems, networks, and computer-based services.
 
 EPEW 2026 welcomes submissions addressing the performance evaluation of systems from theoretical foundations to practical applications. Particular attention is given to the use of performance evaluation methodologies in emerging domains such as cyber-physical systems, mobile platforms, the Internet of Things (IoT), fog and edge computing, large-scale cloud infrastructures, smart grids, and security-critical environments.
+
+
+## Registration
+
+Registration for EPEW is handled through the [ECMS conference website](https://www.scs-europe.net/conf/ecms2026/authors-info/registration-and-payment/). Participants attending EPEW may register for either the full ECMS conference or the workshop only. All EPEW sessions are on June 24.
+
+## Workshop Programme (tentative)
+
+<table>
+  <thead>
+    <tr>
+      <th style="width: 110px; text-align: left;">Start</th>
+      <th style="text-align: left;">Details</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>09:00</td>
+      <td>ECMS Keynote</td>
+    </tr>
+    <tr>
+      <td>10:00</td>
+      <td>Coffee Break</td>
+    </tr>
+
+    <tr>
+      <td colspan="2"><strong>EPEW Session 1</strong></td>
+    </tr>
+    <tr>
+      <td>10:25</td>
+      <td>
+        Prediction and Diagnosis of Cyber-Physical Attacks: A DBN-based Framework for Power Systems<br>
+        Davide Savarro, Mattia Borrelli, Elvio Gilberto Amparore, Davide Cerotti, Giuliana Franceschinis, Susanna Donatelli
+      </td>
+    </tr>
+    <tr>
+      <td>10:50</td>
+      <td>
+        From Protection to Fragility: Emergent Failure Modes in Automated Cyber–Physical Systems<br>
+        Enrico Barbierato, Alice Gatti, Serena Curzel, Marco Gribaudo
+      </td>
+    </tr>
+    <tr>
+      <td>11:15</td>
+      <td>
+        Quantitative Verification of In-Flight UAV Reconfiguration under Uncertainty<br>
+        Ioannis Stefanakos, Sepeedeh Shahbeigi, Jie Zou, Philippa Ryan, John Molloy
+      </td>
+    </tr>
+    <tr>
+      <td>11:40</td>
+      <td>
+        Incorporating Follower-initiated Dynamics within Adaptive Beaconing for Platooning Safety<br>
+        Hassan Laghbi, Nigel Thomas
+      </td>
+    </tr>
+
+    <tr>
+      <td>12:05</td>
+      <td>Lunch Break</td>
+    </tr>
+
+    <tr>
+      <td colspan="2"><strong>EPEW Session 2</strong></td>
+    </tr>
+    <tr>
+      <td>12:55</td>
+      <td>
+        Differentiable Fit of Empirical Distributions by Bernstein Phase Types<br>
+        Laura Carnevali, András Horváth, Marco Paolieri, Enrico Vicario
+      </td>
+    </tr>
+    <tr>
+      <td>13:20</td>
+      <td>
+        Markov Chain Decoders Overcome the Heavy-Tail Limitations of Lipschitz Generative Models<br>
+        Paolo Ballarini, Laura Carnevali, Marco Paolieri, Miklos Telek
+      </td>
+    </tr>
+    <tr>
+      <td>13:45</td>
+      <td>
+        Analysis of the Completion Time of Series Parallel Task Graphs with Correlated Random Durations<br>
+        Ana Busic, Jean-Michel Fourneau, Nihal Pekergin
+      </td>
+    </tr>
+    <tr>
+      <td>14:10</td>
+      <td>
+        Rare Events in Rating Systems with Hidden Strength: A Mean-Field and Diffusion Approach<br>
+        Koen De Turck
+      </td>
+    </tr>
+
+    <tr>
+      <td>14:35</td>
+      <td>Coffee Break</td>
+    </tr>
+
+    <tr>
+      <td colspan="2"><strong>EPEW Session 3</strong></td>
+    </tr>
+    <tr>
+      <td>15:00</td>
+      <td>
+        Overlapping Risk in Infinite-Server Queues: Equilibrium and Social Optimization<br>
+        Ayane Nakamura
+      </td>
+    </tr>
+    <tr>
+      <td>15:25</td>
+      <td>
+        Singular Perturbation Analysis of Markov Modulated Fluid Queues with One Transient and Two Recurrent Aggregates<br>
+        Sarah Dendievel
+      </td>
+    </tr>
+    <tr>
+      <td>15:50</td>
+      <td>
+        Energy-Efficient Controls for M/M/c/ Setup Queues with Threshold-Based Policies<br>
+        Taiga Kawano, Tuan Phung-Duc
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 
 
 ## Call for papers
