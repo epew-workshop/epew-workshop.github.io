@@ -21,6 +21,7 @@ Registration for EPEW is handled through the [ECMS conference website](https://w
 
 ## Workshop Programme (tentative)
 
+<div style="margin: 1em 0;">
 <table>
   <thead>
     <tr>
@@ -138,6 +139,7 @@ Registration for EPEW is handled through the [ECMS conference website](https://w
     </tr>
   </tbody>
 </table>
+</div>
 
 ## Social programme
 
