@@ -17,7 +17,7 @@ EPEW 2026 welcomes submissions addressing the performance evaluation of systems 
 
 ## Registration
 
-Registration for EPEW is handled through the [ECMS conference website](https://www.scs-europe.net/conf/ecms2026/authors-info/registration-and-payment/). Participants attending EPEW may register for either the full ECMS conference or the workshop only. All EPEW sessions are on June 24.
+Registration for EPEW is handled through the [ECMS conference website](https://www.scs-europe.net/conf/ecms2026/authors-info/registration-and-payment/). Participants attending EPEW may register for either the full ECMS conference or the workshop only. All EPEW sessions are on June 25.
 
 ## Workshop Programme (tentative)
 
@@ -139,7 +139,12 @@ Registration for EPEW is handled through the [ECMS conference website](https://w
   </tbody>
 </table>
 
+## Social programme
 
+- June 24: Excursion: city tour 
+- June 25: conference dinner
+
+More information can be found on the [ECMS website](https://scs-europe.net/conf/ecms2026).
 
 ## Call for papers
 
