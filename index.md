@@ -90,7 +90,7 @@ Registration for EPEW is handled through the [ECMS conference website](https://w
       <td>13:20</td>
       <td>
         Markov Chain Decoders Overcome the Heavy-Tail Limitations of Lipschitz Generative Models<br>
-        Paolo Ballarini, Laura Carnevali, Marco Paolieri, Miklos Telek
+        Abdelhakim Ziani, Andras Horvath, and Paolo Ballarini
       </td>
     </tr>
     <tr>
