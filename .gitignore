@@ -5,4 +5,11 @@ _site/
 alembic-jekyll-theme-*.gem
 Gemfile.lock
 **/Gemfile.lock
+/.rbenv/
+/vendor/bundle/
+/.local/
+/.local-build/
+/.bundle/
+/.ruby-version
+_site_dev/
 

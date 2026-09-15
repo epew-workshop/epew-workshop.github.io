@@ -6,6 +6,7 @@ feature_image: "/uploads/catania.jpg"
 excerpt: "EPEW is an annual event on all aspects of performance modelling and analysis."
 ---
 
+ - [2026](https://epew-workshop.github.io/2026/)
  - [2025](https://epew-workshop.github.io/2025/)
  - [2024](https://epew-workshop.github.io/2024/)
  - [2023](https://asmta2023.sciencesconf.org/resource/page/id/5)
