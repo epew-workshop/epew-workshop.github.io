@@ -54,7 +54,7 @@ EPEW 2027 features __post-proceedings__, with a two-phase review process:
 - Authors are solicited to submit __short papers__ of at most __7-10 pages__ for presentation at the workshop. Accepted short papers will not be published in the proceedings.
 - Authors of accepted short papers will be invited to submit __full papers__ of at most __15 pages__ (i.e., an extended version of the short paper) for publication in the post-proceedings.
 
-All page limits include tables, figures, and references. All papers must be submitted electronically in __Springer’s LNCS format__ (in PDF format) using [EasyChair]().
+All page limits include tables, figures, and references. All papers must be submitted electronically in __Springer’s LNCS format__ (in PDF format) using [EasyChair](https://easychair.org/my/conference?conf=epew2027).
 
 Springer encourages authors to include their ORCIDs in their papers. Authors should consult Springer's authors' guidelines and use Springer's LaTeX templates for the preparation of their papers. Submitted papers not complying with the above guidelines may be rejected without undergoing review.
 
