@@ -55,7 +55,9 @@ The page limit includes tables, figures, and references. All papers must be subm
 
 ## Important dates
 
- * TBD
+ *  Submission site opens: December 1, 2026
+ *  Paper submission: February 15, 2027
+ *  Acceptance notification for full papers: March 15, 2027
 
 __All deadlines are UTC-12, Anywhere on Earth.__
 
